@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>오픈소스 & AI 심층 르포 | {{DATE}}</title>
+  
+  <link rel="stylesheet" href="../assets/css/memo_theme.css">
+</head>
+<body>
+
+  <div class="container">
+    <!-- 헤더 (깔끔한 매스트헤드) -->
+    <header class="header-hero">
+      <h1 class="site-title">GitNews 데일리 오픈소스 & AI 트렌드</h1>
+    </header>
+
+    <!-- 피드 제어 바 -->
+    <div class="feed-controls" style="justify-content: flex-end;">
+      <button class="btn-toggle-all" onclick="toggleAllArticles()">
+        <i data-lucide="layers"></i> <span id="toggle-all-text">전체 메모 펼치기</span>
+      </button>
+    </div>
+
+    <!-- 기사 피드 그리드 -->
+    <div class="news-grid">
+
+      <!-- ========================================================== -->
+      <!-- [HERO 1] 오늘의 메인 기사 (COVER STORY) -->
+      <!-- ========================================================== -->
+      <article class="article-card main-story" onclick="toggleArticle(this)">
+        <div class="article-preview">
+          <div class="article-thumb-wrapper">
+            <img src="../assets/images/thumb_main_project.jpg" alt="{{MAIN_PROJECT_NAME}}" class="article-thumb-img">
+            <div class="thumb-play-badge"><i data-lucide="play" style="width:12px;height:12px;fill:#fff;"></i> YOUTUBE {{MAIN_YOUTUBE_VIEWS}}</div>
+          </div>
+
+          <div class="article-summary-box">
+            <div class="article-meta">
+              <span class="aggro-tag main-badge">⭐ 오늘의 메인 기사</span>
+              <span class="aggro-tag">🔥 {{MAIN_AGGRO_TAG}}</span>
+              <span class="platform-tag">GitHub Trending #1</span>
+              <span class="platform-tag">{{MAIN_REPO_OWNER}} / {{MAIN_REPO_NAME}}</span>
+            </div>
+            
+            <h2 class="main-lead-headline">
+              <span id="hero-title">{{OVERARCHING_THEME_HEADLINE}}</span>
+            </h2>
+
+            <div class="article-subheadline">
+              {{MAIN_ARTICLE_SUBHEADLINE}}
+            </div>
+            <p class="article-snippet">
+              {{MAIN_ARTICLE_SNIPPET}}
+            </p>
+            <div class="article-action">
+              <span>메모 펼치기</span>
+              <i data-lucide="chevron-down" class="chevron-icon"></i>
+            </div>
+          </div>
+        </div>
+
+        <div class="article-detail" onclick="event.stopPropagation()">
+          <div class="editorial-content">
+            
+            <h3 class="editorial-section-title">
+              <i data-lucide="flame"></i> 1. {{SECTION_1_TITLE}}
+            </h3>
+            <p>
+              {{SECTION_1_CONTENT}}
+            </p>
+
+            <div class="editorial-quote danger">
+              "{{VIRAL_QUOTE_TEXT}}"
+              <span class="quote-author">— {{VIRAL_QUOTE_AUTHOR}}</span>
+            </div>
+
+            <h3 class="editorial-section-title">
+              <i data-lucide="cpu"></i> 2. {{SECTION_2_TITLE}}
+            </h3>
+            <p>
+              {{SECTION_2_CONTENT}}
+            </p>
+
+            <!-- 순수 CSS/HTML 건축적 에디토리얼 구조도 -->
+            <div class="schematic-container">
+              <div class="schematic-header">
+                <span class="schematic-title">
+                  <i data-lucide="git-branch" style="color:#0ea5e9;"></i> {{SCHEMATIC_TITLE}}
+                </span>
+                <span class="schematic-badge">ARCHITECTURE OVERVIEW</span>
+              </div>
+              <div class="schematic-grid">
+                <div class="schematic-step">
+                  <div class="step-num">STEP 1</div>
+                  <div class="step-label">{{STEP_1_LABEL}}</div>
+                  <div class="step-tech">{{STEP_1_TECH}}</div>
+                </div>
+                <div class="schematic-arrow">➔</div>
+                <div class="schematic-step highlight">
+                  <div class="step-num">STEP 2</div>
+                  <div class="step-label">{{STEP_2_LABEL}}</div>
+                  <div class="step-tech">{{STEP_2_TECH}}</div>
+                </div>
+                <div class="schematic-arrow">➔</div>
+                <div class="schematic-step success">
+                  <div class="step-num">STEP 3</div>
+                  <div class="step-label">{{STEP_3_LABEL}}</div>
+                  <div class="step-tech">{{STEP_3_TECH}}</div>
+                </div>
+              </div>
+              <div class="schematic-desc">
+                <strong>▲ 기술 파이프라인 분석:</strong> {{SCHEMATIC_DESCRIPTION}}
+              </div>
+            </div>
+
+            <h3 class="editorial-section-title">
+              <i data-lucide="scale"></i> 3. {{SECTION_3_TITLE}}
+            </h3>
+            <p>
+              {{SECTION_3_CONTENT}}
+            </p>
+
+            <!-- 오픈소스 실구동 예시 화면 (실제 UI / 터미널 캡처) -->
+            <div class="media-showcase-box">
+              <div class="media-showcase-header">
+                <span class="media-showcase-title">
+                  <i data-lucide="monitor" style="color:#10b981;"></i> {{SHOWCASE_TITLE}}
+                </span>
+                <span class="media-showcase-badge demo">LIVE DEMO CAPTURE</span>
+              </div>
+              <div class="media-showcase-body">
+                <img src="../assets/images/demo_main_ui.jpg" alt="{{SHOWCASE_TITLE}}" class="media-showcase-img">
+              </div>
+              <div class="media-showcase-caption">
+                <strong>▲ {{SHOWCASE_CAPTION_STRONG}}:</strong> {{SHOWCASE_CAPTION_TEXT}}
+              </div>
+            </div>
+
+            <!-- 하단 링크 바 -->
+            <div class="article-footer-links" style="justify-content: flex-end;">
+              <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+                <!-- 실제 독립 웹 데모가 있을 때만 노출 (.project-link.demo) -->
+                <!-- <a href="{{STANDALONE_DEMO_URL}}" target="_blank" class="project-link demo">
+                  <i data-lucide="sparkles" style="width:16px;height:16px;"></i> 공식 웹사이트 / 데모
+                </a> -->
+                <a href="{{YOUTUBE_REVIEW_URL}}" target="_blank" class="project-link youtube">
+                  <i data-lucide="video" style="width:16px;height:16px;"></i> 유튜브 관련 리뷰보기
+                </a>
+                <a href="https://github.com/{{REPO_FULL_NAME}}" target="_blank" class="project-link github">
+                  <i data-lucide="github" style="width:16px;height:16px;"></i> GitHub 저장소 방문
+                </a>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </article>
+
+      <!-- ========================================================== -->
+      <!-- [ARTICLE 2..5] 일반 기사 카드 템플릿 -->
+      <!-- ========================================================== -->
+      <!-- 
+      <article class="article-card" onclick="toggleArticle(this)">
+        <div class="article-preview">
+          <div class="article-thumb-wrapper">
+            <img src="../assets/images/thumb_example.jpg" alt="Example" class="article-thumb-img">
+            <div class="thumb-play-badge"><i data-lucide="play" style="width:12px;height:12px;fill:#fff;"></i> YOUTUBE 40K</div>
+          </div>
+          <div class="article-summary-box">
+            <div class="article-meta">
+              <span class="aggro-tag">🔥 핵심 키워드</span>
+              <span class="platform-tag">GitHub Trending #2</span>
+              <span class="platform-tag">owner / repo</span>
+            </div>
+            <h2 class="article-headline">
+              "헤드라인 제목" — 부연 설명
+            </h2>
+            <p class="article-snippet">
+              2줄 요약 설명
+            </p>
+            <div class="article-action">
+              <span>메모 펼치기</span>
+              <i data-lucide="chevron-down" class="chevron-icon"></i>
+            </div>
+          </div>
+        </div>
+        <div class="article-detail" onclick="event.stopPropagation()">
+          ...
+        </div>
+      </article>
+      -->
+
+    </div>
+
+    <!-- 푸터 -->
+    <footer>
+      <p><strong>Open Source & AI Viral Intelligence</strong> · {{DATE}}</p>
+      <p style="margin-top:0.5rem; color:#64748b;">
+        글로벌 오픈소스 생태계와 생성형 AI 기술의 최전선 트렌드를 매일 심층 분석합니다.
+      </p>
+    </footer>
+  </div>
+
+  <script src="../assets/libs/lucide.min.js"></script>
+  <script src="../assets/libs/rough.min.js"></script>
+  <script src="../assets/libs/rough-notation.js"></script>
+
+  <script>
+    lucide.createIcons();
+
+    // Rough Notation 손글씨 하이라이트 & 손그림 밑줄
+    window.addEventListener('DOMContentLoaded', () => {
+      try {
+        if (window.RoughNotation) {
+          const title = document.getElementById('hero-title');
+          if (title) {
+            const annotation = RoughNotation.annotate(title, {
+              type: 'underline',
+              color: '#f59e0b',
+              strokeWidth: 4,
+              iterations: 2
+            });
+            annotation.show();
+          }
+
+          document.querySelectorAll('.editorial-quote strong').forEach((el, idx) => {
+            if (idx < 6) {
+              const a = RoughNotation.annotate(el, {
+                type: 'highlight',
+                color: '#fef08a',
+                multiline: true,
+                iterations: 1
+              });
+              a.show();
+            }
+          });
+        }
+      } catch (e) {
+        console.warn('RoughNotation init error:', e);
+      }
+    });
+
+    // 개별 기사 카드 클릭 시 상세 토글
+    function toggleArticle(card) {
+      card.classList.toggle('active');
+      const actionText = card.querySelector('.article-action span');
+      
+      if (card.classList.contains('active')) {
+        actionText.textContent = '메모 접기 ▲';
+      } else {
+        actionText.textContent = '메모 펼치기';
+      }
+    }
+
+    // 전체 펼치기 / 접기 버튼
+    let allExpanded = false;
+    function toggleAllArticles() {
+      allExpanded = !allExpanded;
+      const cards = document.querySelectorAll('.article-card');
+      const toggleText = document.getElementById('toggle-all-text');
+      
+      cards.forEach(card => {
+        const actionText = card.querySelector('.article-action span');
+        if (allExpanded) {
+          card.classList.add('active');
+          actionText.textContent = '메모 접기 ▲';
+        } else {
+          card.classList.remove('active');
+          actionText.textContent = '메모 펼치기';
+        }
+      });
+
+      toggleText.textContent = allExpanded ? '전체 메모 접기' : '전체 메모 펼치기';
+    }
+  </script>
+</body>
+</html>
