@@ -2,7 +2,7 @@
 
 When generating daily trending briefings or HTML reports:
 
-1. **Follow [DAILY_TRENDING_GUIDELINES.md](file:///c:/Program%20Files/1a/src/gitnews/DAILY_TRENDING_GUIDELINES.md)**.
+1. **Follow [DAILY_TRENDING_GUIDELINES.md](DAILY_TRENDING_GUIDELINES.md)**.
 2. **TECH JOURNALISM PRINCIPLES (Wired + Bloomberg + Stratechery 5-Stage Framework)**:
    - **Stage 1 (Lede)**: Scene-setting hook capturing dramatic conflict between monopolies and rogue open-source creators.
    - **Stage 2 (Nut Graf)**: Clear core thesis answering why this matters right now, backed by viral community reactions.
@@ -28,3 +28,14 @@ When generating daily trending briefings or HTML reports:
 6. **QUALITY VERIFICATION**:
    - `python scripts/verify_news.py news/YYYY-MM-DD.html`을 실행하여 100% Standalone 상태와 태그 매핑, 다이어그램 가시성을 정밀 검증한다.
 7. Save to `news/YYYY-MM-DD.html` and update `history_seen_projects.md`.
+8. **WEB PUBLISH & ARCHIVE SYNC (웹 배포 및 지난 호 아카이브 자동 동기화)**:
+   - 검증 완료 직후 반드시 `python scripts/publish_site.py`를 실행한다.
+   - 이 스크립트는 최신 기사를 메인 웹페이지(`index.html`)로 자동 배포하고, 모든 기사 하단에 [📅 지난 호 모아보기 (Past Issues)] 아카이브 네비게이터를 일괄 동기화한다.
+9. **GIT COMMIT & PUSH (깃허브 자동 배포 반영)**:
+   - 모든 작업이 끝나면 생성된 파일들을 원격 저장소로 커밋 및 푸시하여 GitHub Pages에 즉시 반영한다:
+     ```bash
+     git add news/ history_seen_projects.md index.html
+     git commit -m "feat: publish daily trending briefing YYYY-MM-DD"
+     git push origin main
+     ```
+

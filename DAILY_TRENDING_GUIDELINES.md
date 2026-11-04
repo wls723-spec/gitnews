@@ -149,6 +149,17 @@
      python scripts/verify_news.py news/YYYY-MM-DD.html
      ```
      (`>>> ALL VALIDATIONS PASSED: 100% PERFECT STANDALONE ALL-IN-ONE HTML! <<<` 확인 필수)
+  3. 웹 배포 및 지난 호 아카이브 동기화 실행:
+     ```bash
+     python scripts/publish_site.py
+     ```
+     (최신 기사를 `index.html`로 배포하고, 하단 지난 호 모아보기 네비게이터를 자동 동기화함)
+  4. GitHub Pages 배포 푸시:
+     ```bash
+     git add news/ history_seen_projects.md index.html
+     git commit -m "feat: publish daily trending briefing YYYY-MM-DD"
+     git push origin main
+     ```
 
 ---
 

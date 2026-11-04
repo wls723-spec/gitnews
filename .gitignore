@@ -1,3 +1,15 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
 .env
+
+# Scratch and Temporary directories
+scratch/
+*.tmp
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db

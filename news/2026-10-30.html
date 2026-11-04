@@ -2959,6 +2959,140 @@ var RoughNotation=function(t){"use strict";const e="http://www.w3.org/2000/svg";
       </div>
     </section>
 
+    <!-- ========================================================== -->
+    <!-- [ARCHIVE NAVIGATOR START] 지난 호 모아보기 -->
+    <section class="archive-navigator" id="past-issues">
+      <style>
+        .archive-navigator {
+          margin: 3.5rem 0 2rem 0;
+          padding: 1.75rem 2rem;
+          background: #fbf9f4;
+          border: 2px dashed #d1d5db;
+          border-radius: 12px;
+          position: relative;
+        }
+        .archive-header {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          margin-bottom: 1.25rem;
+          padding-bottom: 0.75rem;
+          border-bottom: 2px solid #e5e7eb;
+        }
+        .archive-title {
+          font-family: 'Gowun Dodum', sans-serif;
+          font-size: 1.15rem;
+          font-weight: 700;
+          color: #1f2937;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+        }
+        .archive-meta-badge {
+          font-size: 0.8rem;
+          font-weight: 600;
+          color: #6b7280;
+          background: rgba(0,0,0,0.05);
+          padding: 0.25rem 0.65rem;
+          border-radius: 9999px;
+        }
+        .archive-grid {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.65rem;
+          align-items: center;
+        }
+        .archive-pill {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.35rem;
+          padding: 0.45rem 0.95rem;
+          background: #ffffff;
+          color: #374151;
+          font-family: 'Gowun Dodum', sans-serif;
+          font-size: 0.9rem;
+          font-weight: 600;
+          text-decoration: none;
+          border: 1.5px solid #e5e7eb;
+          border-radius: 8px;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+          transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .archive-pill:hover {
+          border-color: #f59e0b;
+          color: #d97706;
+          background: #fffbeb;
+          transform: translateY(-2px);
+          box-shadow: 0 4px 6px -1px rgba(245, 158, 11, 0.15);
+        }
+        .archive-pill.active-issue {
+          background: #1f2937;
+          color: #ffffff;
+          border-color: #1f2937;
+          font-weight: 700;
+          box-shadow: 0 2px 4px rgba(31, 41, 55, 0.25);
+        }
+        .archive-pill.active-issue:hover {
+          background: #374151;
+          color: #fef08a;
+          border-color: #374151;
+        }
+        .archive-pill .pill-date {
+          font-variant-numeric: tabular-nums;
+          letter-spacing: 0.02em;
+        }
+      </style>
+      
+      <div class="archive-header">
+        <div class="archive-title">
+          <span>📅 지난 호 모아보기 (Past Issues)</span>
+        </div>
+        <span class="archive-meta-badge">총 12회 발행 완료</span>
+      </div>
+
+      <div class="archive-grid">
+          <a href="../index.html" class="archive-pill" title="2026-11-04 발행호 읽기">
+            <span class="pill-date">2026-11-04</span> ⭐ 최신호
+          </a>
+          <a href="./2026-11-03.html" class="archive-pill" title="2026-11-03 발행호 읽기">
+            <span class="pill-date">2026-11-03</span>
+          </a>
+          <a href="./2026-11-02.html" class="archive-pill" title="2026-11-02 발행호 읽기">
+            <span class="pill-date">2026-11-02</span>
+          </a>
+          <a href="./2026-10-30.html" class="archive-pill active-issue" title="2026-10-30 발행호 읽기">
+            <span class="pill-date">2026-10-30</span>
+          </a>
+          <a href="./2026-10-28.html" class="archive-pill" title="2026-10-28 발행호 읽기">
+            <span class="pill-date">2026-10-28</span>
+          </a>
+          <a href="./2026-10-26.html" class="archive-pill" title="2026-10-26 발행호 읽기">
+            <span class="pill-date">2026-10-26</span>
+          </a>
+          <a href="./2026-10-23.html" class="archive-pill" title="2026-10-23 발행호 읽기">
+            <span class="pill-date">2026-10-23</span>
+          </a>
+          <a href="./2026-10-22.html" class="archive-pill" title="2026-10-22 발행호 읽기">
+            <span class="pill-date">2026-10-22</span>
+          </a>
+          <a href="./2026-10-21.html" class="archive-pill" title="2026-10-21 발행호 읽기">
+            <span class="pill-date">2026-10-21</span>
+          </a>
+          <a href="./2026-10-16.html" class="archive-pill" title="2026-10-16 발행호 읽기">
+            <span class="pill-date">2026-10-16</span>
+          </a>
+          <a href="./2026-10-15.html" class="archive-pill" title="2026-10-15 발행호 읽기">
+            <span class="pill-date">2026-10-15</span>
+          </a>
+          <a href="./2026-10-14.html" class="archive-pill" title="2026-10-14 발행호 읽기">
+            <span class="pill-date">2026-10-14</span>
+          </a>
+      </div>
+    </section>
+    <!-- [ARCHIVE NAVIGATOR END] -->
+    <!-- ========================================================== -->
+
+
 
   </div> <!-- .container -->
 
