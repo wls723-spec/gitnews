@@ -39,6 +39,36 @@
 | **2026-10-23** | GitHub | **genspark-ai/genoffice** | https://github.com/genspark-ai/genoffice | 세계 최초 오픈소스 AI 오피스 스위트 (.docx/.xlsx/.pptx 바이너리 로컬 편집, Claude Code/Cursor 연동 CLI 및 MCP 스킬) | - |
 | **2026-10-23** | GitHub | **anthropics/knowledge-work-plugins** | https://github.com/anthropics/knowledge-work-plugins | 앤스로픽 공식 오픈소스 11대 지식 업무 플러그인 (Claude Cowork 기반 법무, 재무, 세일즈, 고객지원, 생명과학 특화 에이전트) | - |
 | **2026-10-23** | GitHub | **trycua/cua** | https://github.com/trycua/cua | 컴퓨터 유즈 2.0 오픈소스 멀티플레이어 OS (애플 실리콘 Lume VM, 세션 텔레포트, 인간-AI 듀얼 마우스 커서 협동 조작) | - |
+| **2026-10-26** | GitHub | **garrytan/gstack** | https://github.com/garrytan/gstack | YC 대표 개리 탠의 23개 전속 AI 에이전트 군단 (CEO, 기획, 리드엔지니어, QA 브라우저 자동화 스택, 2013년 대비 810배 생산성) | - |
+| **2026-10-26** | GitHub | **anthropics/sandbox-runtime** | https://github.com/anthropics/sandbox-runtime | 앤스로픽 공식 오픈소스 마이크로초 단위 OS 커널 격리 감옥 (macOS Seatbelt & Linux Bubblewrap + seccomp BPF 무컨테이너 샌드박스) | - |
+| **2026-10-26** | GitHub | **experientiallabs/experiential** | https://github.com/experientiallabs/experiential | 실시간 사내 트래픽 학습 기반 지능형 LLM 게이트웨이 & 지속적 LoRA SLM 증류 엔진 (+1,224 스타 트렌딩 1위) | - |
+| **2026-10-26** | GitHub | **thedotmack/claude-mem** | https://github.com/thedotmack/claude-mem | 세션 간 시행착오와 결정을 실시간 압축하여 다음 세션에 자동 주입하는 크로스 에이전트 영구 메모리 엔진 | - |
+| **2026-10-26** | GitHub | **browser-use/video-use** | https://github.com/browser-use/video-use | 3만 스타 browser-use 팀의 타임라인 없는 100% 오픈소스 에이전트 비디오 편집소 (30ms 오디오 페이드, Manim/Remotion 병렬 합성) | - |
+| **2026-10-28** | GitHub | **Nutlope/hallmark** | https://github.com/Nutlope/hallmark | 보라색 그라디언트와 인공지능 티를 박멸하는 3단계 게이트 안티-슬롭 디자인 하네스 (+2,830 스타 트렌딩 1위) | - |
+| **2026-10-28** | GitHub | **JetBrains/thinkrail** | https://github.com/JetBrains/thinkrail | 젯브레인의 서브세컨드 경량 바이브 코딩 전용 IDE (Git Worktree 병렬 격리, SPEC.md 지식 그래프, pi 에이전트 런타임) | - |
+| **2026-10-28** | GitHub | **TauricResearch/TradingAgents** | https://github.com/TauricResearch/TradingAgents | 월스트리트 헤지펀드 트레이딩 플로어 멀티 에이전트 프레임워크 (펀더멘털·차트·감성 분석가 vs 리스크 오피서, +11.7만 스타) | - |
+| **2026-10-28** | GitHub | **NVIDIA/SkillSpector** | https://github.com/NVIDIA/SkillSpector | 엔비디아 공식 AI 에이전트 스킬 보안 분석기 (3.1만 개 중 26.1% 취약 적발, 17개 카테고리 71대 공격 벡터 사전 차단) | - |
+| **2026-10-28** | GitHub | **HKUDS/DeepTutor** | https://github.com/HKUDS/DeepTutor | 홍콩대(HKU) 평생 1:1 맞춤형 소크라테스 튜터 에이전트 (오개념 추적, 유한 메모리 세션 복구, LightRAG 연동, +4.6만 스타) | - |
+| **2026-10-30** | GitHub | **valentderah/totk-pc-recomp** | https://github.com/valentderah/totk-pc-recomp | 닌텐도 스위치 플래그십 TotK의 ARM64 기계어를 C/AVX2로 리프팅하여 4K 144Hz Vulkan 네이티브로 구동하는 정적 재컴파일러 | - |
+| **2026-10-30** | GitHub | **vectorize-io/hindsight** | https://github.com/vectorize-io/hindsight | 단순 대화 회상을 넘어 Retain-Recall-Reflect 3단계 루프로 멘탈 모델을 스스로 학습하는 차세대 에이전트 장기 기억 엔진 (+1,352 스타) | - |
+| **2026-10-30** | GitHub | **nightly-labs/openbot** | https://github.com/nightly-labs/openbot | Codex, Claude Code, Grok을 단일 데스크톱 사옥에 모아 작업 큐와 CUA 드라이버로 오케스트레이션하는 로컬 퍼스트 AI 워크스페이스 (+705 스타) | - |
+| **2026-10-30** | GitHub | **obra/superpowers** | https://github.com/obra/superpowers | Request Tracker 거장 제시 빈센트가 정립한 스펙 티징, 엄격한 Red/Green TDD, YAGNI 원칙 기반 코딩 에이전트 소프트웨어 공학 프레임워크 (+1,037 스타) | - |
+| **2026-10-30** | GitHub | **jub0t/Concat** | https://github.com/jub0t/Concat | 바이트댄스 캡컷의 유료 구독에 맞서는 Rust + Tauri 기반 100% 무료 로컬 비디오 에디터 & AI 에이전트 조작용 MCP 서버 (+262 스타) | - |
+| **2026-11-02** | GitHub | **deepseek-ai/dsh-superagent-prototype** | https://github.com/deepseek-ai/dsh-superagent-prototype | 빅테크의 독점적 에이전트 장벽을 깨부수는 딥시크의 반격: 완전 자율 소프트웨어 엔지니어 프로토타입 전격 공개 (+7.1k 스타) | - |
+| **2026-11-02** | GitHub | **ashayas/icloud-s3** | https://github.com/ashayas/icloud-s3 | 애플 '공유 앨범 무료 정책' 루프홀을 찔러 12TB 무료 S3 오브젝트 스토리지를 구축한 기상천외한 Rust 리버스 엔지니어링 | - |
+| **2026-11-02** | GitHub | **beenuar/AiSOC** | https://github.com/beenuar/AiSOC | 보안 관제 센터(SOC) 인간 번아웃을 끝내는 경보 융합 & MITRE ATT&CK 조사 자율 수행 오픈소스 AI SOC (+2.3k 스타) | - |
+| **2026-11-02** | GitHub | **patch-gg/pixelfx** | https://github.com/patch-gg/pixelfx | 244개 레트로 픽셀 아트 이펙트를 코드로 빚는 초경량 VFX 엔진 & Claude Code 장인 피드백 루프 스킬 (+2.5k 스타) | - |
+| **2026-11-02** | GitHub | **Arjun-Ingole/hop** | https://github.com/Arjun-Ingole/hop | USB 메모리도, 파티션 포맷 공포도 없이 윈도우 옆에 클릭 한 번으로 리눅스를 심는 원클릭 듀얼 부팅 인스톨러 (+1.2k 스타) | - |
+| **2026-11-03** | GitHub | **vercel-labs/agent-desktop** | https://github.com/vercel-labs/agent-desktop | 스크린샷 픽셀 대신 OS 접근성 트리(AXUIElement/UIA/AT-SPI)를 직결해 토큰 비용 98% 절감 및 50ms 반응성을 달성한 버셀의 데스크톱 에이전트 CLI (+9.6k 스타) | - |
+| **2026-11-03** | GitHub | **Donchitos/Claude-Code-Game-Studios** | https://github.com/Donchitos/Claude-Code-Game-Studios | 단일 챗봇의 코드 붕괴를 끝내는 49개 특화 에이전트와 74개 스킬 기반 AAA 게임 스튜디오 위계 거버넌스 오케스트레이션 (+33.5k 스타) | - |
+| **2026-11-03** | GitHub | **JustVugg/colibri** | https://github.com/JustVugg/colibri | 의존성 제로(Zero deps)의 순수 C 언어로 744B 거대 MoE 모델 비활성 가중치를 NVMe SSD에서 RAM으로 직접 밀어 넣는 파격의 메모리 스트리밍 엔진 (+46.5k 스타) | - |
+| **2026-11-03** | GitHub | **anomalyco/hex** | https://github.com/anomalyco/hex | 클라우드 전송 0바이트, 100% 온디바이스에서 무지연 실시간 음성 입력을 지원하는 Rust 네이티브 크로스플랫폼 딕테이션 앱 (+4.0k 스타) | - |
+| **2026-11-03** | GitHub | **calesthio/OpenMontage** | https://github.com/calesthio/OpenMontage | 12개 전문 파이프라인과 700여 개 스킬로 프리미어/캡컷 비파괴 타임라인 프로젝트를 자동 조립하는 에이전틱 영상 프로덕션 (+75.3k 스타) | - |
+| **2026-11-04** | GitHub | **karpathy/nanochat** | https://github.com/karpathy/nanochat | 단 1개의 8xH100 노드에서 1.65시간(48달러) 만에 GPT-2 능가 모델을 훈련시키는 안드레이 카파시의 초경량 파이프라인 (+60.2k 스타) | - |
+| **2026-11-04** | GitHub | **p-e-w/heretic** | https://github.com/p-e-w/heretic | 역전파나 파인튜닝 없이 은닉층 활성화 벡터 직교 사영으로 검열과 슬롭을 안방 PC에서 도려내는 트레이닝-프리 가중치 성형 도구 (+38.8k 스타) | - |
+| **2026-11-04** | GitHub | **pingdotgg/t3code** | https://github.com/pingdotgg/t3code | Claude Code, Codex, Antigravity, Cursor를 묶어 스마트폰 앱과 브라우저에서 안전하게 원격 조종하는 Theo의 오픈소스 컨트롤 서피스 (+44.5k 스타) | - |
+| **2026-11-04** | GitHub | **floci-io/floci** | https://github.com/floci-io/floci | 계정 가입도 유료 기능 잠금도 없이 포트 4566을 완전 호환하며 로컬스택의 유료화 철옹성을 무너뜨리는 100% 무료 로컬 AWS 에뮬레이터 (+28.8k 스타) | - |
+| **2026-11-04** | GitHub | **KeygraphHQ/shannon** | https://github.com/KeygraphHQ/shannon | 'No exploit, no report' — 소스코드 정적 분석과 도커 격리 런타임 침투 공격을 직결하여 실제 쉘을 딴 유효 취약점만 입증하는 자율 AI 펜테스터 (+51.0k 스타) | - |
 
 
 

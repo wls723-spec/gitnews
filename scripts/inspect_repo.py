@@ -1,19 +1,34 @@
-import re
+import urllib.request
+import json
+import base64
 import sys
-sys.stdout.reconfigure(encoding='utf-8')
 
-def inspect_file(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        text = f.read()
-    m = re.search(r'<article class="markdown-body[^>]*>(.*?)</article>', text, re.DOTALL)
-    if m:
-        # replace common html tags
-        clean = re.sub(r'<[^>]+>', ' ', m.group(1))
-        clean = re.sub(r'\s+', ' ', clean).strip()
-        print(clean[:3000])
-    else:
-        print("No markdown-body found")
+if sys.platform == 'win32':
+    sys.stdout.reconfigure(encoding='utf-8')
 
-if __name__ == "__main__":
-    path = sys.argv[1] if len(sys.argv) > 1 else r"C:\Users\user\.gemini\antigravity-ide\brain\435add80-f970-4300-aa51-040eb4163a92\.system_generated\steps\57\content.md"
-    inspect_file(path)
+repo = sys.argv[1] if len(sys.argv) > 1 else "TauricResearch/TradingAgents"
+headers = {"User-Agent": "Mozilla/5.0"}
+
+# 1. Repo info
+try:
+    req = urllib.request.Request(f"https://api.github.com/repos/{repo}", headers=headers)
+    with urllib.request.urlopen(req) as resp:
+        info = json.loads(resp.read().decode('utf-8'))
+        print(f"=== {info.get('full_name')} ===")
+        print(f"Description: {info.get('description')}")
+        print(f"Stars: {info.get('stargazers_count')} | Forks: {info.get('forks_count')}")
+        print(f"Homepage: {info.get('homepage')}")
+        print(f"Topics: {info.get('topics')}")
+except Exception as e:
+    print(f"Error fetching repo info: {e}")
+
+# 2. Readme
+try:
+    req = urllib.request.Request(f"https://api.github.com/repos/{repo}/readme", headers=headers)
+    with urllib.request.urlopen(req) as resp:
+        data = json.loads(resp.read().decode('utf-8'))
+        content = base64.b64decode(data['content']).decode('utf-8')
+        print("\n=== README (first 3500 chars) ===")
+        print(content[:3500])
+except Exception as e:
+    print(f"Error fetching readme: {e}")
