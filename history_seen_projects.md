@@ -72,3 +72,15 @@
 
 
 
+| **2026-11-05** | GitHub | **NVIDIA/auto-ontology** | https://github.com/NVIDIA/auto-ontology | 엔터프라이즈 메타데이터로부터 시맨틱 온톨로지 지식 그래프를 자동 구축하고 BIRD 벤치마크급 결정론적 Text-to-SQL을 보증하는 엔비디아의 핵심 인프라 | - |
+| **2026-11-05** | GitHub | **D4Vinci/Scrapling** | https://github.com/D4Vinci/Scrapling | 헤드리스 브라우저 없이도 JA4 핑거프린트 위장과 어댑티브 파서로 Cloudflare Turnstile과 WAF를 단 한 줄의 요청으로 뚫는 초고속 스텔스 크롤러 | - |
+| **2026-11-05** | GitHub | **max-sixty/worktrunk** | https://github.com/max-sixty/worktrunk | 다중 AI 에이전트(Claude Code 등)를 격리된 Git 워크트리에 병렬 배치하고 CoW 빌드 캐시와 수명 주기 훅으로 충돌을 없앤 Rust CLI | - |
+| **2026-11-05** | GitHub | **FareedKhan-dev/kimi-k3-in-c** | https://github.com/FareedKhan-dev/kimi-k3-in-c | 2.78조 파라미터 MoE Kimi K3를 8.24GB RAM CPU 단독으로 구동하며 바이트 단위 동일성을 완벽 구현한 순수 C99 스트리밍 추론 엔진 | - |
+| **2026-11-05** | GitHub | **crmne/zapfast** | https://github.com/crmne/zapfast | 일렉트론의 500MB 메모리 폭식을 25MB로 끝장낸 순수 Rust + egui 즉시 모드 GUI 기반 네이티브 데스크톱 왓츠앱 클라이언트 | - |
+| **2026-11-05** | GitHub | **Balanov/equal** | https://github.com/Balanov/equal | 실제 운영 API 트래픽을 가로채 1초 만에 재현 가능한 로컬 샌드박스와 OpenAPI 3.0 스펙으로 자동 역공학하는 정적 Go 바이너리 | - |
+| **2026-11-05** | GitHub | **Balanov/latch** | https://github.com/Balanov/latch | 에이전트의 불투명한 유료 API 호출 전 견적-승인-실행을 강제하는 초경량 HTTPS 마이크로 보안 계약 레이어 | - |
+| **2026-11-05** | GitHub | **silverdugongenhance/PromptReel** | https://github.com/silverdugongenhance/PromptReel | 클라우드 구독료 없이 로컬 GPU에서 텍스트 프롬프트를 숏폼 비디오 클립으로 렌더링하는 무료 데스크톱 앱 | - |
+| **2026-11-05** | GitHub | **ChannelDivinerCast/VSCode-Extension-Helper** | https://github.com/ChannelDivinerCast/VSCode-Extension-Helper | VS Code 확장 프로그램의 메모리 누수와 이벤트 루프 지연을 실시간 추적하여 프리징을 막는 경량 유틸리티 | - |
+| **2026-11-05** | GitHub | **github/spec-kit** | https://github.com/github/spec-kit | GitHub 공식 팀이 제안하는 명세 주도 개발(SDD) 툴킷: 모호한 프롬프트를 기계 검증 가능한 정형 스펙으로 자동 전환 | - |
+| **2026-11-05** | GitHub | **shiyu-coder/Kronos** | https://github.com/shiyu-coder/Kronos | 주가 시계열, 호가창 주문 흐름, 거시 뉴스를 단일 임베딩 공간에서 융합 처리하는 금융 특화 오픈 파운데이션 모델 | - |
+| **2026-11-05** | GitHub | **liguobao/ds-harness-remote** | https://github.com/liguobao/ds-harness-remote | WebRTC P2P 저지연 암호화 터널을 통해 로컬 DeepSeek Harness를 스마트폰에서 원격 제어하는 솔루션 | - |

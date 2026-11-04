@@ -9,6 +9,7 @@ __pycache__/
 scratch/
 *.tmp
 *.log
+candidates_*.json
 
 # OS metadata
 .DS_Store

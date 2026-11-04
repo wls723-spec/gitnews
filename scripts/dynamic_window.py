@@ -50,9 +50,13 @@ class DynamicSearchWindow:
         )
 
 def get_last_published_date(seen_file_path=None):
-    seen_file = seen_file_path or Path(r"c:\Program Files\1a\src\gitnews\history_seen_projects.md")
+    if seen_file_path:
+        seen_file = Path(seen_file_path)
+    else:
+        seen_file = Path(__file__).resolve().parent.parent / "history_seen_projects.md"
+
     if not seen_file.exists():
-        return "2026-10-28"
+        return "2026-11-04"
     
     with open(seen_file, "r", encoding="utf-8") as f:
         text = f.read()
@@ -61,7 +65,7 @@ def get_last_published_date(seen_file_path=None):
     if dates:
         # Return latest date
         return sorted(dates)[-1]
-    return "2026-10-28"
+    return "2026-11-04"
 
 def get_dynamic_window(now_dt=None, seen_file_path=None):
     last_date = get_last_published_date(seen_file_path)
