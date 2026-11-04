@@ -1131,13 +1131,6 @@ var RoughNotation=function(t){"use strict";const e="http://www.w3.org/2000/svg";
       <h1 class="site-title">GitNews 데일리 오픈소스 & AI 트렌드</h1>
     </header>
 
-    <!-- 피드 제어 바 -->
-    <div class="feed-controls" style="justify-content: flex-end;">
-      <button class="btn-toggle-all" onclick="toggleAllArticles()">
-        <i data-lucide="layers"></i> <span id="toggle-all-text">전체 메모 펼치기</span>
-      </button>
-    </div>
-
     <!-- 메인 5대 기사 피드 그리드 -->
     <div class="news-grid">
 
@@ -3154,44 +3147,6 @@ var RoughNotation=function(t){"use strict";const e="http://www.w3.org/2000/svg";
       if (btn) btn.setAttribute('aria-expanded', isExpanded ? 'true' : 'false');
       if (btnText) {
         btnText.textContent = isExpanded ? '메모 접기 ▲' : '메모 펼치기';
-      }
-    }
-
-    // 전체 펼치기 / 접기 버튼 (메인 5개 + 마이너 18개 전체 일괄 제어)
-    let allExpanded = false;
-    function toggleAllArticles() {
-      allExpanded = !allExpanded;
-      const cards = document.querySelectorAll('.article-card');
-      const minorItems = document.querySelectorAll('.minor-item');
-      const toggleText = document.getElementById('toggle-all-text');
-      
-      cards.forEach(card => {
-        const actionText = card.querySelector('.article-action span');
-        if (allExpanded) {
-          card.classList.add('active');
-          if (actionText) actionText.textContent = '메모 접기 ▲';
-        } else {
-          card.classList.remove('active');
-          if (actionText) actionText.textContent = '메모 펼치기';
-        }
-      });
-
-      minorItems.forEach(item => {
-        const btn = item.querySelector('.minor-toggle-btn');
-        const btnText = item.querySelector('.minor-btn-text');
-        if (allExpanded) {
-          item.classList.add('active');
-          if (btn) btn.setAttribute('aria-expanded', 'true');
-          if (btnText) btnText.textContent = '메모 접기 ▲';
-        } else {
-          item.classList.remove('active');
-          if (btn) btn.setAttribute('aria-expanded', 'false');
-          if (btnText) btnText.textContent = '메모 펼치기';
-        }
-      });
-
-      if (toggleText) {
-        toggleText.textContent = allExpanded ? '전체 메모 접기' : '전체 메모 펼치기';
       }
     }
   </script>
