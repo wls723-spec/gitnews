@@ -84,3 +84,17 @@
 | **2026-11-05** | GitHub | **github/spec-kit** | https://github.com/github/spec-kit | GitHub 공식 팀이 제안하는 명세 주도 개발(SDD) 툴킷: 모호한 프롬프트를 기계 검증 가능한 정형 스펙으로 자동 전환 | - |
 | **2026-11-05** | GitHub | **shiyu-coder/Kronos** | https://github.com/shiyu-coder/Kronos | 주가 시계열, 호가창 주문 흐름, 거시 뉴스를 단일 임베딩 공간에서 융합 처리하는 금융 특화 오픈 파운데이션 모델 | - |
 | **2026-11-05** | GitHub | **liguobao/ds-harness-remote** | https://github.com/liguobao/ds-harness-remote | WebRTC P2P 저지연 암호화 터널을 통해 로컬 DeepSeek Harness를 스마트폰에서 원격 제어하는 솔루션 | - |
+| **2026-11-06** | GitHub | **tembo/voxl** | https://github.com/tembo/voxl | 무거운 VNC 클라이언트 없이 웹 브라우저 WebCodecs와 Rust H.264 인코딩으로 60FPS 4K 원격 데스크톱을 스트리밍하는 초저지연 도구 | - |
+| **2026-11-06** | GitHub | **microsoft/VibeVoice** | https://github.com/microsoft/VibeVoice | 사람의 호흡과 감정 표현, 실시간 턴테이킹 및 말 끊김을 완벽히 재현한 마이크로소프트의 오픈소스 프론티어 음성 AI 파운데이션 모델 | - |
+| **2026-11-06** | GitHub | **longbridge/gpui-kit** | https://github.com/longbridge/gpui-kit | Zed 에디터의 GPU 가속 GPUI 엔진 기반 75+ 상용급 컴포넌트와 Wasm/AccessKit을 지원하는 풀스택 Rust 데스크톱 프레임워크 | - |
+| **2026-11-06** | GitHub | **JosssphZhou/poki** | https://github.com/JosssphZhou/poki | 탈옥(No jailbreak)과 추가 하드웨어 없이 실제 물리 iPhone을 AI 에이전트가 화면 비전과 터치 제스처로 완전 조작하는 로컬 MCP 서버 | - |
+| **2026-11-06** | Hacker News | **sshole** | https://sshhole.com | 설치도 계정도 없이 오직 표준 ssh 한 줄(`ssh -R 80:localhost:3000 sshhole.com`)로 로컬 포트를 즉시 전 세계에 공개 배포하는 공공 터널 | - |
+| **2026-11-06** | GitHub | **southleft/figma-console-mcp** | https://github.com/southleft/figma-console-mcp | 피그마 디자인 시스템을 API로 변환하여 AI가 컴포넌트와 토큰을 직접 읽고 프론트엔드 코드로 추출·생성하는 MCP 서버 | - |
+| **2026-11-06** | GitHub | **tester-army/e2e** | https://github.com/tester-army/e2e | 사람이 시나리오 코드를 짜지 않아도 시각적 지각과 AI 탐색으로 웹과 모바일의 엣지 버그를 잡아내는 차세대 E2E 테스터 | - |
+| **2026-11-06** | GitHub | **Nebularotunnel/Token-Sniper** | https://github.com/Nebularotunnel/Token-Sniper | 온체인 멤풀 이벤트를 가로채 신규 유동성 풀 생성과 바이트코드 보안 취약점을 실시간 분석하는 데스크톱 분석 엔진 | - |
+| **2026-11-06** | GitHub | **Wallbycontact/java-mod-rust-port-tool** | https://github.com/Wallbycontact/java-mod-rust-port-tool | Fabric/NeoForge 자바 모드 JAR 바이트코드를 고성능 Rust 네이티브 게임 엔진 코드로 자동 변환하는 트랜스파일러 | - |
+| **2026-11-06** | GitHub | **AtomIllusionistDwell/watson-username-footprint-finder** | https://github.com/AtomIllusionistDwell/watson-username-footprint-finder | 3,100여 개 웹 플랫폼에서 닉네임과 이메일의 가입 여부 및 디지털 풋프린트를 비동기 병렬 스캔하는 초고속 OSINT 도구 | - |
+| **2026-11-06** | GitHub | **dragonwolfshovel/youtube-uploader** | https://github.com/dragonwolfshovel/youtube-uploader | 구글 API 쿼터 제약 없이 세션 쿠키와 이어올리기 프로토콜로 영상과 썸네일을 완전 자동 발행하는 유튜브 업로더 CLI | - |
+| **2026-11-06** | GitHub | **vercel-labs/agent-browser** | https://github.com/vercel-labs/agent-browser | 무거운 CDP 프로토콜 대신 정제된 접근성 시맨틱 그래프만을 교환하여 토큰 비용을 80% 줄인 버셀의 초경량 에이전트 브라우저 | - |
+| **2026-11-06** | GitHub | **Thysrael/Horizon** | https://github.com/Thysrael/Horizon | 수십 개 채널의 기술 뉴스를 교차 검증하고 요약하여 매일 아침 맞춤형 다국어 브리핑과 오디오 팟캐스트를 만드는 AI 신문사 | - |
+| **2026-11-06** | GitHub | **sandbox-quantum/switch** | https://github.com/sandbox-quantum/switch | 슬랙, 팀즈, 디스코드 메신저 어디서든 사내 데이터에 접근하여 업무를 자율 수행하는 온프레미스 AI 팀원 하네스 | - |
