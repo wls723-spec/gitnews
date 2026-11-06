@@ -129,15 +129,15 @@ STORY_5_HTML = """
             <div class="media-showcase-box">
               <div class="media-showcase-header">
                 <span class="media-showcase-title">
-                  <i data-lucide="monitor" style="color:#10b981;"></i> sshole 공식 터미널 콘솔 화면
+                  <i data-lucide="monitor" style="color:#10b981;"></i> sshole 공식 웹사이트 & 라이브 명령어 포털
                 </span>
-                <span class="media-showcase-badge demo">OFFICIAL SHOWCASE</span>
+                <span class="media-showcase-badge demo">LIVE DEMO CAPTURE</span>
               </div>
               <div class="media-showcase-body">
-                <img src="../assets/images/thumb_sshole.png" alt="sshole command terminal" class="media-showcase-img">
+                <img src="../assets/images/demo_sshole.png" alt="sshhole.com official website interface" class="media-showcase-img">
               </div>
               <div class="media-showcase-caption">
-                <strong>▲ 군더더기 없는 터미널 인터페이스:</strong> 단 한 줄의 SSH 입력으로 부여받은 공개 URL과 실시간 접속 로그가 화면에 즉시 표시되는 모습.
+                <strong>▲ sshhole.com 공식 콘솔:</strong> 표준 SSH 리버스 터널 명령어와 공개 URL 발급 매뉴얼을 제공하는 공식 웹 인터페이스.
               </div>
             </div>
 

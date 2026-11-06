@@ -130,15 +130,15 @@ STORY_1_HTML = """
             <div class="media-showcase-box">
               <div class="media-showcase-header">
                 <span class="media-showcase-title">
-                  <i data-lucide="monitor" style="color:#10b981;"></i> voxl 고속 데스크톱 스트리밍 렌더링
+                  <i data-lucide="monitor" style="color:#10b981;"></i> voxl 실제 저장소 및 스트리밍 파이프라인
                 </span>
-                <span class="media-showcase-badge demo">LIVE DEMO CAPTURE</span>
+                <span class="media-showcase-badge demo">OFFICIAL REPO PREVIEW</span>
               </div>
               <div class="media-showcase-body">
-                <img src="../assets/images/thumb_voxl.png" alt="voxl remote desktop in action" class="media-showcase-img">
+                <img src="../assets/images/demo_voxl.png" alt="voxl remote desktop in action" class="media-showcase-img">
               </div>
               <div class="media-showcase-caption">
-                <strong>▲ 브라우저 내 60FPS 스트리밍:</strong> 무거운 뷰어 클라이언트 없이 웹 브라우저 단 하나로 오디오, 마이크, 클립보드까지 완벽하게 통합 구동되는 모습.
+                <strong>▲ 공식 벤치마크 & 퀵스타트:</strong> H.264 인코더와 WebCodecs 디코더 파이프라인으로 60FPS 브라우저 스트리밍을 달성한 공식 아키텍처.
               </div>
             </div>
 

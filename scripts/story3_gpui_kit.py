@@ -131,15 +131,15 @@ STORY_3_HTML = """
             <div class="media-showcase-box">
               <div class="media-showcase-header">
                 <span class="media-showcase-title">
-                  <i data-lucide="monitor" style="color:#10b981;"></i> GPUI Kit 공식 디자인 시스템 & 렌더링
+                  <i data-lucide="monitor" style="color:#10b981;"></i> GPUI Kit 공식 웹사이트 & 컴포넌트 쇼케이스
                 </span>
-                <span class="media-showcase-badge demo">NATIVE UI PREVIEW</span>
+                <span class="media-showcase-badge demo">LIVE DEMO CAPTURE</span>
               </div>
               <div class="media-showcase-body">
-                <img src="../assets/images/thumb_gpui_kit.png" alt="GPUI Kit Components" class="media-showcase-img">
+                <img src="../assets/images/demo_gpui_kit.png" alt="GPUI Kit Live Website & Components" class="media-showcase-img">
               </div>
               <div class="media-showcase-caption">
-                <strong>▲ 75종 컴포넌트 갤러리:</strong> 복잡한 금융 데이터 차트와 데이터 그리드가 GPU 가속을 통해 지연 시간 없이 부드럽게 렌더링되는 모습.
+                <strong>▲ 75종 컴포넌트 갤러리:</strong> gpui-kit.com 공식 포털에서 제공하는 고성능 GPU 가속 데스크톱 UI 위젯과 엔터프라이즈 컴포넌트 명세.
               </div>
             </div>
 

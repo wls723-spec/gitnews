@@ -128,15 +128,15 @@ STORY_4_HTML = """
             <div class="media-showcase-box">
               <div class="media-showcase-header">
                 <span class="media-showcase-title">
-                  <i data-lucide="monitor" style="color:#10b981;"></i> Poki 실제 아이폰 자동 제어 데모
+                  <i data-lucide="monitor" style="color:#10b981;"></i> Poki 공식 웹사이트 & 실기기 제어 데모
                 </span>
                 <span class="media-showcase-badge demo">LIVE DEMO PREVIEW</span>
               </div>
               <div class="media-showcase-body">
-                <img src="../assets/images/demo_poki.gif" alt="Poki in action" class="media-showcase-img">
+                <img src="../assets/images/demo_poki.png" alt="Poki official website and iPhone in action" class="media-showcase-img">
               </div>
               <div class="media-showcase-caption">
-                <strong>▲ 실기기 화면 인터랙션:</strong> 실제 아이폰 화면 위에서 AI 에이전트가 앱을 실행하고 화면 맥락을 파악해 터치 제스처를 수행하는 실시간 모습.
+                <strong>▲ poki.bot 공식 라이브 데모:</strong> 탈옥 없는 실제 아이폰 위에서 AI 에이전트가 화면 맥락을 파악하고 네이티브 터치/스와이프를 수행하는 실기기 인터랙션.
               </div>
             </div>
 

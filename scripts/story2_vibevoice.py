@@ -127,15 +127,15 @@ STORY_2_HTML = """
             <div class="media-showcase-box">
               <div class="media-showcase-header">
                 <span class="media-showcase-title">
-                  <i data-lucide="monitor" style="color:#10b981;"></i> VibeVoice 공식 아키텍처 엠블럼 & 데모
+                  <i data-lucide="monitor" style="color:#10b981;"></i> VibeVoice 공식 프로젝트 페이지 & 인터랙티브 쇼케이스
                 </span>
-                <span class="media-showcase-badge demo">OFFICIAL SHOWCASE</span>
+                <span class="media-showcase-badge demo">LIVE DEMO CAPTURE</span>
               </div>
               <div class="media-showcase-body">
-                <img src="../assets/images/demo_vibevoice.png" alt="Microsoft VibeVoice Architecture" class="media-showcase-img">
+                <img src="../assets/images/demo_vibevoice.png" alt="Microsoft VibeVoice Interactive Showcase" class="media-showcase-img">
               </div>
               <div class="media-showcase-caption">
-                <strong>▲ 마이크로소프트 VibeVoice 공식 엠블럼:</strong> 프론티어 음성 AI의 오픈소스화를 선언하며 공개된 연구 리포트와 모델 체크포인트.
+                <strong>▲ 공식 연구 데모 포털:</strong> 실시간 대화형 ASR/TTS 음성 샘플과 모델 가중치 링크를 제공하는 공식 프로젝트 페이지.
               </div>
             </div>
 
