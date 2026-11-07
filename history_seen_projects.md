@@ -98,3 +98,26 @@
 | **2026-11-06** | GitHub | **vercel-labs/agent-browser** | https://github.com/vercel-labs/agent-browser | 무거운 CDP 프로토콜 대신 정제된 접근성 시맨틱 그래프만을 교환하여 토큰 비용을 80% 줄인 버셀의 초경량 에이전트 브라우저 | - |
 | **2026-11-06** | GitHub | **Thysrael/Horizon** | https://github.com/Thysrael/Horizon | 수십 개 채널의 기술 뉴스를 교차 검증하고 요약하여 매일 아침 맞춤형 다국어 브리핑과 오디오 팟캐스트를 만드는 AI 신문사 | - |
 | **2026-11-06** | GitHub | **sandbox-quantum/switch** | https://github.com/sandbox-quantum/switch | 슬랙, 팀즈, 디스코드 메신저 어디서든 사내 데이터에 접근하여 업무를 자율 수행하는 온프레미스 AI 팀원 하네스 | - |
+| **2026-11-08** | GitHub | **milind-soni/OpenMausBot** | https://github.com/milind-soni/OpenMausBot | 오픈소스 Grok Bot 대안: 로컬 가상머신(VM) 및 멀티 에이전트 오케스트레이션 챗 플랫폼 | - |
+| **2026-11-08** | GitHub | **mitchellh/ghostty** | https://github.com/mitchellh/ghostty | 미첼 하시모토의 역작: 모든 소프트웨어에 네이티브 120FPS GPU 터미널을 임베딩하는 C 라이브러리 libghostty 1.0 | - |
+| **2026-11-08** | GitHub | **Th0rgal/satmux** | https://github.com/Th0rgal/satmux | 기내 600ms 정지궤도 위성 와이파이 지연을 1초로 단축하는 순수 파이썬 BBR TCP 멀티플렉서 & 1-RTT Ground-TLS | - |
+| **2026-11-08** | GitHub | **voyager-so/vork** | https://github.com/voyager-so/vork | AI 코딩 에이전트가 코드로 3D 씬과 헐리우드급 VFX를 직접 생성·렌더링하는 헤드리스 3D 커널 (Rust) | - |
+| **2026-11-08** | GitHub | **cjpais/Handy** | https://github.com/cjpais/Handy | 100% 온디바이스 오프라인에서 무지연 시스템 전역 단축키 음성 입력을 지원하는 Rust 데스크톱 딕테이션 앱 | - |
+| **2026-11-08** | GitHub | **ranxianglei/billion-context** | https://github.com/ranxianglei/billion-context | 한 달 내내 단일 세션을 유지하며 수십억 토큰을 다루는 AI 에이전트 계층적 컨텍스트 압축 플러그인 | - |
+| **2026-11-08** | GitHub | **mbillow/localthings** | https://github.com/mbillow/localthings | 삼성 클라우드 없이 홈어시스턴트에서 LAN 로컬 네트워크로 스마트싱스 가전을 직접 제어하는 파이썬 통합 | - |
+| **2026-11-08** | GitHub | **Toxicfire47834/RustOptimizer-respocket** | https://github.com/Toxicfire47834/RustOptimizer-respocket | 저사양 PC에서 Rust 게임 프레임과 네트워크 틱을 극대화하는 윈도우 그래픽·시스템 튜너 | - |
+| **2026-11-08** | GitHub | **multica-ai/multica** | https://github.com/multica-ai/multica | 인간 엔지니어와 복수의 코딩 에이전트가 단일 칸반 보드에서 티켓을 나누고 협동하는 오픈소스 협업 플랫폼 | - |
+| **2026-11-08** | GitHub | **devvmhq/devvm** | https://github.com/devvmhq/devvm | 프로젝트마다 1초 만에 격리된 툴체인 샌드박스를 프로비저닝하여 에이전트와 도구 충돌을 방지하는 Go CLI | - |
+| **2026-11-08** | GitHub | **blader/humanizer** | https://github.com/blader/humanizer | AI 특유의 뻔한 접속사, 수동태, 과도한 미사여구(Slop)를 완벽히 제거하는 에이전트 글쓰기 스킬 | - |
+| **2026-11-08** | GitHub | **Tropicaldrescoop/discord-id-osint-checker** | https://github.com/Tropicaldrescoop/discord-id-osint-checker | 디스코드 유저 ID와 초대 코드로 스노우플레이크 생성 시점과 사칭·복제 여부를 역추적하는 무료 OSINT 유틸리티 | - |
+| **2026-11-08** | GitHub | **arnold117/iOS-NOIR** | https://github.com/arnold117/iOS-NOIR | 탈옥 없이 USB 진단 채널로 iOS 앱의 권한, 샌드박스 엔타이틀먼트, 비공개 텔레메트리를 전수 감사하는 포렌식 도구 | - |
+| **2026-11-08** | GitHub | **PackArtisanMold/phone-to-webcam** | https://github.com/PackArtisanMold/phone-to-webcam | 앱 설치 없이 스마트폰 브라우저 QR 스캔만으로 로컬 WebRTC 스트림을 윈도우 웹캠으로 직결하는 웹 도구 | - |
+| **2026-11-08** | Hacker News | **nfsu2.xyz** | https://nfsu2.xyz/ | Wasm과 WebGL로 고전 레이싱 명작 Need for Speed Underground 2를 설치 없이 브라우저에서 60FPS 구동 | - |
+| **2026-11-08** | Hacker News | **OpenStick-homelab** | https://blog.bosscher.ch/posts/openstick/ | 1만 원대 LTE USB 모뎀(OpenStick)을 해킹해 1W 초저전력 데비안 홈랩 서버와 Tailscale 노드로 탈바꿈시킨 기록 | - |
+| **2026-11-08** | Hacker News | **Apple-PKG-Classifier** | https://8rank.ai/game/apple-intelligence-personal-knowledge-graph | macOS 시쿼이아 내부에 숨겨진 애플 인텔리전스의 비공개 온디바이스 가족/지인 관계 분류 모델 역공학 | - |
+| **2026-11-08** | Hacker News | **Jev-Opus-Hybrid** | https://hightouch.com/blog/llm-judges-identity-resolution | 경량 판정 모델(Jev)이 애매한 케이스만 Opus에 에스컬레이션하여 4분의 1 비용으로 최고 성능을 내는 하이브리드 아키텍처 | - |
+| **2026-11-08** | Hacker News | **Firecracker-VM-Escape** | https://pwn.ai/blog/firecracker-escape | AWS Lambda의 핵심 격리 기술인 Firecracker 마이크로VM의 메모리 레이스 컨디션을 뚫고 호스트 루트 쉘을 탈취한 실전 익스플로잇 | - |
+| **2026-11-08** | Hacker News | **UEFI-Bare-Metal** | https://kevinboone.me/efitest_index.html | OS 없이 x86_64 CPU 베어메탈에서 직접 실행되는 순수 C UEFI 펌웨어 애플리케이션 작성 입문 가이드 | - |
+| **2026-11-08** | Hacker News | **New-Git-Storage** | https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ | 수십억 개 저장소를 지탱하기 위해 파일시스템 클러스터를 분산 SSD 블록 엔진으로 전면 교체한 깃허브 차세대 스토리지 | - |
+| **2026-11-08** | Hacker News | **worldstrike.fun** | https://worldstrike.fun/ | 전 세계 오픈스트리트맵(OSM) 건물 3D 데이터를 물리 엔진으로 파괴 가능한 복셀로 변환한 멀티플레이어 전차 웹게임 | - |
+| **2026-11-08** | Hacker News | **ASN-Bank-GrapheneOS-Block** | https://github.com/PrivSec-dev/banking-apps-compat-report/issues/32 | 구글 플레이 인티그리티 API 강제로 인해 보안 특화 OS(GrapheneOS) 사용자를 원천 차단한 유럽 금융권 논란 | - |
