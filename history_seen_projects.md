@@ -121,3 +121,26 @@
 | **2026-11-08** | Hacker News | **New-Git-Storage** | https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ | 수십억 개 저장소를 지탱하기 위해 파일시스템 클러스터를 분산 SSD 블록 엔진으로 전면 교체한 깃허브 차세대 스토리지 | - |
 | **2026-11-08** | Hacker News | **worldstrike.fun** | https://worldstrike.fun/ | 전 세계 오픈스트리트맵(OSM) 건물 3D 데이터를 물리 엔진으로 파괴 가능한 복셀로 변환한 멀티플레이어 전차 웹게임 | - |
 | **2026-11-08** | Hacker News | **ASN-Bank-GrapheneOS-Block** | https://github.com/PrivSec-dev/banking-apps-compat-report/issues/32 | 구글 플레이 인티그리티 API 강제로 인해 보안 특화 OS(GrapheneOS) 사용자를 원천 차단한 유럽 금융권 논란 | - |
+| **2026-11-09** | GitHub | **synchopate/llama-modchip** | https://github.com/synchopate/llama-modchip | 64GB CPU RAM에서 GPU 없이 284B DeepSeek MoE 모델을 구동하는 CPU 퍼스트 인퍼런스 런타임 | - |
+| **2026-11-09** | GitHub | **herdrdev/herdr** | https://github.com/herdrdev/herdr | 코딩 에이전트 전용 멀티플렉서 런타임: 창이 닫혀도 지속 실행되는 단일 Rust 데몬 및 소켓 IPC | - |
+| **2026-11-09** | GitHub | **Vincentwei1021/video-shotcraft** | https://github.com/Vincentwei1021/video-shotcraft | Claude Code & Codex가 Remotion 코드로 렌더링하는 결정론적 방송급 프로모션 비디오 스튜디오 | - |
+| **2026-11-09** | GitHub | **Crosstalk-Solutions/project-nomad** | https://github.com/Crosstalk-Solutions/project-nomad | 위키피디아, 전 세계 지도, 오프라인 AI를 담아 무인터넷 환경에서 작동하는 자립형 지식 서버 | - |
+| **2026-11-09** | GitHub | **can1357/oh-my-pi** | https://github.com/can1357/oh-my-pi | 60+ 모델과 14개 LSP, 28개 DAP 디버그 연산을 품은 8만 줄 Rust 코어 오픈 코딩 하네스 (omp.sh) | - |
+| **2026-11-09** | GitHub | **trafficinc/tokenshield** | https://github.com/trafficinc/tokenshield | Git 리포지토리의 핵심 심볼과 트리 구조만을 압축하여 LLM 프롬프트 토큰 낭비를 줄이는 Go CLI | - |
+| **2026-11-09** | GitHub | **xdisform/Spider** | https://github.com/xdisform/Spider | Claude Code를 모의 침투 익스플로잇 체이닝 및 패치 작성까지 수행하는 자율 레드팀 테스터로 전환 | - |
+| **2026-11-09** | GitHub | **mitschud/Relay** | https://github.com/mitschud/Relay | 시스템 리소스 15MB 미만으로 로컬 LLM 에이전트의 파일 I/O와 워크스페이스를 관리하는 Rust GUI | - |
+| **2026-11-09** | GitHub | **wanshuiyin/SuperARIS** | https://github.com/wanshuiyin/SuperARIS | 개발자가 잠든 밤새 학술 논문과 코드를 자율 탐색·합성하는 Auto Research In Sleep (ARIS) 에이전트 | - |
+| **2026-11-09** | GitHub | **DarkBytee/DuckAi** | https://github.com/DarkBytee/DuckAi | 덕덕고 AI Chat 무료 엔드포인트를 역공학하여 API 키 없이 6대 상용 LLM을 스트리밍하는 CLI | - |
+| **2026-11-09** | GitHub | **tailucanh/offload-mcp-server** | https://github.com/tailucanh/offload-mcp-server | 대형 문서 독해와 로그 분석을 보조 에이전트로 분기하여 메인 코딩 에이전트의 토큰을 아끼는 MCP | - |
+| **2026-11-09** | GitHub | **ensignalp/kota** | https://github.com/ensignalp/kota | Claude, Codex, Gemini의 잔여 쿼터와 리셋 시간을 GNOME 데스크톱 상단 바에 표기하는 Rust 위젯 | - |
+| **2026-11-09** | GitHub | **flockcap/cantrip** | https://github.com/flockcap/cantrip | 자연어를 즉시 안전한 리눅스 터미널 파이프라인 명령어로 변환하는 무설정 경량 Rust 비서 | - |
+| **2026-11-09** | GitHub | **avivgerz-hue/vibe-shield** | https://github.com/avivgerz-hue/vibe-shield | AI 생성 코드의 환각 패키지 주입과 보안 취약점을 60개 규칙으로 사전 차단하는 MCP 보안 서버 | - |
+| **2026-11-09** | Hacker News | **Goldman-Sachs-Claude-Code-Ban** | https://www.thestateofai.com/news/goldman-sachs-claude-code- | 금융 보안 및 비감사 자동 실행 리스크로 인해 트레이더와 뱅커의 Claude Code 사용을 전면 중단 | - |
+| **2026-11-09** | Hacker News | **Outlook-DMARC-Block** | https://mailroute.net/blog/outlook-rejecting-email-without-d | 마이크로소프트 아웃룩이 DMARC 미인증 도메인 발송 메일을 스팸함 이동 없이 원천 드롭 차단 | - |
+| **2026-11-09** | Hacker News | **duxlabs/dux** | https://duxlabs.dev/ | wlroots 기반 하드웨어 가속 렌더링과 모듈형 타일링을 지원하는 차세대 오픈소스 Wayland 데스크톱 | - |
+| **2026-11-09** | Hacker News | **open-agent-memory-format** | https://www.lorekit.io/blog/open-agent-memory-format | AI 에이전트 간 맥락 기억과 결정 히스토리를 자유롭게 이전하기 위한 OpenTelemetry 규격 제안 | - |
+| **2026-11-09** | Hacker News | **person-of-interest-osint** | https://krthr.co/person-of-interest/ | 모바일 앱 광고 SDK와 데이터 브로커 네트워크가 결합하여 일반인을 감시하는 현대 OSINT 메커니즘 | - |
+| **2026-11-09** | Hacker News | **dmunozv04/isponsorblocktv** | https://github.com/dmunozv04/isponsorblocktv | Apple TV, webOS, Tizen 등 거실 스마트 TV의 유튜브 앱에서 협찬 광고 구간을 자동 건너뛰는 유틸리티 | - |
+| **2026-11-09** | Hacker News | **claude-code-secret-leak-apiiro** | https://apiiro.com/blog/coding-agents-leaking-secrets-github | '다시 묻지 않음' 옵션을 켠 코딩 에이전트가 1,122개 공개 GitHub 리포지토리에 비밀번호를 유출 | - |
+| **2026-11-09** | Hacker News | **hedgerow-dev/coldframe** | https://github.com/hedgerow-dev/coldframe | 대형 슈퍼마켓 냉동고 컨트롤러로 위장하여 기간시설 대상 랜섬웨어 및 IoT 정찰 공격을 낚는 허니팟 | - |
+| **2026-11-09** | Hacker News | **msr-ai-frontiers-disbanded** | https://hunch.net/?p=13764006 | 마이크로소프트 리서치가 상업화와 단기 수익 압박으로 전설적인 기초 AI 연구 그룹 'AI Frontiers'를 해체 | - |
