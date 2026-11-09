@@ -144,3 +144,26 @@
 | **2026-11-09** | Hacker News | **claude-code-secret-leak-apiiro** | https://apiiro.com/blog/coding-agents-leaking-secrets-github | '다시 묻지 않음' 옵션을 켠 코딩 에이전트가 1,122개 공개 GitHub 리포지토리에 비밀번호를 유출 | - |
 | **2026-11-09** | Hacker News | **hedgerow-dev/coldframe** | https://github.com/hedgerow-dev/coldframe | 대형 슈퍼마켓 냉동고 컨트롤러로 위장하여 기간시설 대상 랜섬웨어 및 IoT 정찰 공격을 낚는 허니팟 | - |
 | **2026-11-09** | Hacker News | **msr-ai-frontiers-disbanded** | https://hunch.net/?p=13764006 | 마이크로소프트 리서치가 상업화와 단기 수익 압박으로 전설적인 기초 AI 연구 그룹 'AI Frontiers'를 해체 | - |
+| **2026-11-10** | GitHub | **meta/astryx** | https://github.com/meta/astryx | 메타 8년 내부 기밀 13,000개 사내 앱 디자인 엔진 오픈소스화 (React 19, StyleX, Agent Contract) | - |
+| **2026-11-10** | GitHub | **BenchUp3D/editor** | https://github.com/BenchUp3D/editor | 트림블 스케치업 구독 독점을 허문 Rust + WebGPU 브라우저 60FPS 3D CAD 스튜디오 (KetchUp) | - |
+| **2026-11-10** | GitHub | **superplanehq/superplane** | https://github.com/superplanehq/superplane | 깃허브 이슈를 백로그-구현-테스트 검증 완료 PR로 전자동 전환하는 Go 기반 무인 개발 공장 | - |
+| **2026-11-10** | GitHub | **OpenBMB/VoxCPM** | https://github.com/OpenBMB/VoxCPM | 이산 음향 토크나이저를 제거한 연속 잠재 공간 확산 기반 초사실적 다국어 음성 합성 (VoxCPM2) | - |
+| **2026-11-10** | GitHub | **huamidev/GestaltX** | https://github.com/huamidev/GestaltX | worse_query 샌드박스 우회로 탈옥 없이 iOS 27 하드웨어 플래그 및 애플 인텔리전스 잠금 해제 | - |
+| **2026-11-10** | GitHub | **adriadam10/mkw-recomp** | https://github.com/adriadam10/mkw-recomp | 마리오 카트 월드(스위치 2) AArch64 코드를 C로 사전 번역하고 Vulkan 위에서 구동하는 PC 네이티브 정적 재컴파일러 | - |
+| **2026-11-10** | GitHub | **herrbimmer/IDEmu** | https://github.com/herrbimmer/IDEmu | 맥OS에서 QEMU와 소켓 CAN 버스를 결합해 BMW iDrive 4~8 헤드유닛을 에뮬레이션하는 개발 환경 | - |
+| **2026-11-10** | GitHub | **kolbicz/WQFiles** | https://github.com/kolbicz/WQFiles | worse_query 취약점을 이용해 순정 iOS 27에서 전체 앱 샌드박스와 유령 캐시를 관리하는 파일 브라우저 | - |
+| **2026-11-10** | Hacker News | **Claude-Fable-Mythos** | https://www.anthropic.com/claude-fable-and-mythos-5-2 | 앤스로픽의 차세대 플래그십 AI 모델 Claude Fable 5.2 및 Mythos 5.2 발표 (AA 최고점 65점) | - |
+| **2026-11-10** | Hacker News | **USPS-ZIP-Code-Polygons** | https://postalpro.usps.com/zcb | 미국 우체국(USPS), 공식 우편번호(ZIP Code) 경계 GIS 폴리곤 데이터 전면 무료 개방 | - |
+| **2026-11-10** | Hacker News | **Payments-Canada-RTR** | https://www.payments.ca/canada-launches-real-time-rail-bring | 캐나다, 24시간 실시간 국가 지급결제망 Real-Time Rail (RTR) 공식 가동 | - |
+| **2026-11-10** | GitHub | **yetone/rewind-for-x** | https://github.com/yetone/rewind-for-x | X(트위터) 타임라인에서 스크롤로 지나쳐버린 트윗을 로컬 IndexedDB에 인덱싱해 검색하는 크롬 확장 | - |
+| **2026-11-10** | GitHub | **skild-ai/steel** | https://github.com/skild-ai/steel | 피지컬 AI와 로봇 강화학습 시뮬레이션을 위한 초경량 고확장 C++/CUDA 강체 물리 엔진 | - |
+| **2026-11-10** | GitHub | **professorsolderin/project-lighthouse** | https://github.com/professorsolderin/project-lighthouse | 훼손된 고문서와 고지도의 레이아웃을 신경망 확산으로 복원하고 전사하는 AI 파이프라인 | - |
+| **2026-11-10** | Hacker News | **Fold-Epic-Paper-Airplanes** | https://www.foldableflight.com | 공기역학 시뮬레이션과 3D WebGL 기하학으로 설계된 인터랙티브 종이비행기 공학 플랫폼 | - |
+| **2026-11-10** | Hacker News | **Is-Opus-Nerfed** | https://twitter.com/shanemelaugh/status/2119192075505893695 | 클로드 오퍼스 5.5의 시스템 프롬프트 변경으로 인한 CoT 생각 토큰 강제 축소 및 성능 너프 분석 | - |
+| **2026-11-10** | Hacker News | **Humans-Will-Never-Again-Create-Wikipedia** | https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia | AI 지식 합성 엔진의 범람으로 위키피디아 같은 이타적 크라우드소싱 백과사전의 종말을 다룬 문명 비평 | - |
+| **2026-11-10** | GitHub | **0xCodez/iphone-mirror-windows** | https://github.com/0xCodez/iphone-mirror-windows | 윈도우 PC에서 에어플레이 화면을 띄우고 USB 마우스와 키보드로 아이폰을 제어하는 미러링 도구 | - |
+| **2026-11-10** | GitHub | **gokayfem/image-to-sculpt** | https://github.com/gokayfem/image-to-sculpt | 단 한 장의 사진에서 렌즈 왜곡을 역산하고 표면 법선 벡터를 합성해 3D 프린팅 가능한 STL을 추출 | - |
+| **2026-11-10** | GitHub | **stevenmichaelthomas/numbrone** | https://github.com/stevenmichaelthomas/numbrone | 여러 코딩 에이전트 인스턴스에 작업을 계층 분배하고 상태를 동기화하는 총괄 비서실장 쉘 | - |
+| **2026-11-10** | Hacker News | **Unlocking-Any-Car-Brand-X** | https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-t | 커넥티드 카 텔레매틱스 API의 BOLA 취약점으로 전 세계 수백만 대의 차량 도어를 원격 해제한 취약점 | - |
+| **2026-11-10** | Hacker News | **Chimera-Vocal-Synth** | https://chimera-vocal-synth.vercel.app/ | WebGPU 기반 물리적 성대(Vocal Tract) 시뮬레이션 및 실시간 포먼트 모듈레이션 브라우저 신디사이저 | - |
+| **2026-11-10** | Hacker News | **RAM-Altman** | https://respawnfirst.com/linux-script-emails-sam-altman-unus | 매일 아침 내 PC의 남는 RAM 용량을 측정해 샘 올트먼 오픈AI CEO에게 기부 메일을 보내는 풍자 리눅스 데몬 | - |
