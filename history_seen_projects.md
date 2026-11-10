@@ -167,3 +167,26 @@
 | **2026-11-10** | Hacker News | **Unlocking-Any-Car-Brand-X** | https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-t | 커넥티드 카 텔레매틱스 API의 BOLA 취약점으로 전 세계 수백만 대의 차량 도어를 원격 해제한 취약점 | - |
 | **2026-11-10** | Hacker News | **Chimera-Vocal-Synth** | https://chimera-vocal-synth.vercel.app/ | WebGPU 기반 물리적 성대(Vocal Tract) 시뮬레이션 및 실시간 포먼트 모듈레이션 브라우저 신디사이저 | - |
 | **2026-11-10** | Hacker News | **RAM-Altman** | https://respawnfirst.com/linux-script-emails-sam-altman-unus | 매일 아침 내 PC의 남는 RAM 용량을 측정해 샘 올트먼 오픈AI CEO에게 기부 메일을 보내는 풍자 리눅스 데몬 | - |
+| **2026-11-11** | GitHub | **HolyArrs/HolyArrs** | https://github.com/HolyArrs/HolyArrs | 15MB 단일 바이너리로 넷플릭스·스포티파이·Plex 생태계를 대체하는 올인원 셀프호스팅 미디어 서버 | - |
+| **2026-11-11** | GitHub | **homeassistant-ai/ha-mcp** | https://github.com/homeassistant-ai/ha-mcp | Claude와 ChatGPT를 홈 어시스턴트 87개 엔티티 도구와 직결하는 공식 FastMCP 서버 | - |
+| **2026-11-11** | GitHub | **guillaumemeyer/watermarks-remover** | https://github.com/guillaumemeyer/watermarks-remover | SynthID, C2PA, 유니코드, 토큰 편향 등 AI 워터마크와 출처 메타데이터를 원천 박멸하는 프라이버시 도구 | - |
+| **2026-11-11** | GitHub | **GoogleChrome/modern-web-guidance** | https://github.com/GoogleChrome/modern-web-guidance | 구글 크롬·엣지·파이어폭스·MDN 연합: 코딩 에이전트의 2019년 레거시 JS 편향을 깨는 최신 웹 프리미티브 가이드 | - |
+| **2026-11-11** | GitHub | **DhanushNehru/GhostWalk** | https://github.com/DhanushNehru/GhostWalk | 크로미움 없이 4바이트 핸들 플랫 아레나로 1ms 만에 동적 DOM과 마크다운을 추출하는 Rust 헤드리스 웹 엔진 | - |
+| **2026-11-11** | GitHub | **kiritomp3/rtl-sdr-mcp** | https://github.com/kiritomp3/rtl-sdr-mcp | 저가형 RTL-SDR 동글을 제어해 무선 주파수 스펙트럼과 폭포수 데이터를 LLM 도구로 익스포트하는 MCP 서버 | - |
+| **2026-11-11** | GitHub | **ethanntann/massage-chair-mcp** | https://github.com/ethanntann/massage-chair-mcp | OSIM uDiva3 스마트 안마의자의 BLE 프로토콜을 역공학하여 에이전트 판단에 따라 마사지를 작동시키는 MCP | - |
+| **2026-11-11** | GitHub | **adpchrgruber/Rhino-Open-AI-Kit** | https://github.com/adpchrgruber/Rhino-Open-AI-Kit | 클라우드 전송 없이 건축 디자이너의 그래스호퍼 파라메트릭 스크립트와 3D 기하 연산을 로컬 LLM으로 자동화 | - |
+| **2026-11-11** | GitHub | **kishormorol/ineedsilence** | https://github.com/kishormorol/ineedsilence | OpenAI, Anthropic, Google의 세 모델이 3라운드에 걸쳐 문서를 상호 검증하고 만장일치 시에만 통과시키는 합의 엔진 | - |
+| **2026-11-11** | GitHub | **Veloresearch/kinetic** | https://github.com/Veloresearch/kinetic | 무거운 클라우드 의존 없이 로컬 하드웨어에서 모델 가중치를 제로 카피 스트리밍하는 순수 Rust 기반 로컬 AI 런타임 | - |
+| **2026-11-11** | GitHub | **thekivashyn/tiktok-live-rust** | https://github.com/thekivashyn/tiktok-live-rust | Rust 비동기 Tokio 엔진으로 틱톡 라이브의 채팅, 선물, 후원 이벤트를 초저지연 직렬화해 수신하는 비공식 엔진 | - |
+| **2026-11-11** | GitHub | **permitzip/mutinybim** | https://github.com/permitzip/mutinybim | 무거운 상용 BIM 소프트웨어 없이도 웹 브라우저에서 공용 커널과 직종별 애드온으로 3D 건축 정보 모델을 편집하는 오픈소스 BIM | - |
+| **2026-11-11** | GitHub | **mintlify/agent-traffic** | https://github.com/mintlify/agent-traffic | 폭증하는 AI 스크래퍼와 자율 에이전트의 브라우저 핑거프린트와 요청 헤더를 정밀 분석해 트래픽을 분류하고 제어하는 미들웨어 | - |
+| **2026-11-11** | GitHub | **Etherll/laqta** | https://github.com/Etherll/laqta | 윈도우/리눅스 환경에서 메모리 점유율을 10분의 1로 줄이고 초고속 스크린 녹화, 펜 주석, 즉시 공유를 지원하는 현대적 대체재 | - |
+| **2026-11-11** | Hacker News | **Blender-5.3-Gaussian-Splat** | https://www.blender.org/download/releases/5-3/ | 실사 공간 캡처의 최신 표준인 3D Gaussian Splatting을 외부 플러그인 없이 블렌더 뷰포트에서 직접 실시간 편집하고 렌더링 지원 | - |
+| **2026-11-11** | Hacker News | **Synaptics-Patent-DisplayLink** | https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ | USB 멀티모니터 연결 핵심 기술에 대해 시냅틱스가 소프트웨어 특허를 주장하며 오픈소스 커뮤니티의 evdi 개발이 얼어붙은 사태 | - |
+| **2026-11-11** | Hacker News | **Val-Town-Winding-Down** | https://blog.val.town/winding-down | 브라우저에서 바로 TypeScript 함수를 배포하고 공유하던 혁신적 소셜 클라우드 Val Town이 종료를 선언하며 데이터 익스포트 공개 | - |
+| **2026-11-11** | Hacker News | **AlphaProof-Code** | https://deepmind.google/blog/introducing-alphaproof-code/ | 국제수학올림피아드 문제를 해결했던 강화학습 추론 엔진을 Lean 4 기반 소스코드 자동 합성 및 컴파일 타임 무결점 검증 엔진으로 발전 | - |
+| **2026-11-11** | Hacker News | **Amazon-Strands-Decider** | https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet | 모든 쿼리를 대형 모델로 보내던 비효율을 깨고 오픈소스 결정기 계층이 요청을 사전 분류해 85%의 트래픽을 저비용 모델로 처리한 아키텍처 | - |
+| **2026-11-11** | Hacker News | **DotNet-11-Runtime** | https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime | 계층형 PGO 고도화와 네이티브 AOT 컴파일 압축을 통해 서버리스 콜드스타트를 40% 단축하고 메모리 사용량을 절반으로 축소한 .NET 11 | - |
+| **2026-11-11** | Hacker News | **E-means-Clustering** | https://e-means.github.io/ | 1967년 제정된 k-평균 알고리즘의 수렴 속도 한계를 극복하고 10분의 1 에포크만에 전역 최적점에 도달하는 엔트로피 가중 군집화 | - |
+| **2026-11-11** | Hacker News | **Watched-Earth** | https://www.watched.earth | 오픈 위성 궤도 데이터와 공개 지구 관측 위성 이미지를 결합해 전 세계 특정 장소의 실시간 위성 통과 기록을 보여주는 지도 플랫폼 | - |
+| **2026-11-11** | Hacker News | **CUI-Native-C-Components** | https://yappologistic.github.io/CUI/ | 무거운 C++이나 외부 툴킷 종속 없이 시스템 네이티브 드로잉 API를 직접 바인딩하여 200KB 미만 바이너리로 데스크톱 창을 띄우는 C 라이브러리 | - |
