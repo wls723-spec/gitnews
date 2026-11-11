@@ -190,3 +190,26 @@
 | **2026-11-11** | Hacker News | **E-means-Clustering** | https://e-means.github.io/ | 1967년 제정된 k-평균 알고리즘의 수렴 속도 한계를 극복하고 10분의 1 에포크만에 전역 최적점에 도달하는 엔트로피 가중 군집화 | - |
 | **2026-11-11** | Hacker News | **Watched-Earth** | https://www.watched.earth | 오픈 위성 궤도 데이터와 공개 지구 관측 위성 이미지를 결합해 전 세계 특정 장소의 실시간 위성 통과 기록을 보여주는 지도 플랫폼 | - |
 | **2026-11-11** | Hacker News | **CUI-Native-C-Components** | https://yappologistic.github.io/CUI/ | 무거운 C++이나 외부 툴킷 종속 없이 시스템 네이티브 드로잉 API를 직접 바인딩하여 200KB 미만 바이너리로 데스크톱 창을 띄우는 C 라이브러리 | - |
+| **2026-11-12** | GitHub | **aws/aws-emulator** | https://github.com/aws/aws-emulator | AI 에이전트 인프라 코드를 위해 S3·DynamoDB·SQS 등을 로컬 무계정 0초 검증하는 아마존 공식 오픈소스 에뮬레이터 | - |
+| **2026-11-12** | GitHub | **shadcn/improve** | https://github.com/shadcn/improve | Opus 등 최고 지능 모델로 코드베이스를 감사하고 정밀 Spec만 합성한 뒤 경량 모델로 시공해 토큰 90%를 절감하는 에이전트 스킬 | - |
+| **2026-11-12** | GitHub | **openai/codex-security** | https://github.com/openai/codex-security | 가짜 보안 경고를 근절하기 위해 샌드박스 공격 실증(PoC) 성공 시에만 회귀 방지 최소 단위 패치 PR을 발행하는 OpenAI 공식 보안 CLI | - |
+| **2026-11-12** | GitHub | **FrigadeHQ/yogurt** | https://github.com/FrigadeHQ/yogurt | CoreAudio/PipeWire 오디오 루프백과 로컬 Whisper로 1바이트 유출 없이 실시간 마크다운 회의록을 생성하는 100% 온디바이스 오픈소스 | - |
+| **2026-11-12** | GitHub | **sgl-project/sglang-omni** | https://github.com/sgl-project/sglang-omni | 텍스트 중간 변환을 없앤 네이티브 오디오/비전 텐서 스트리밍과 RadixAttention으로 50ms 미만 전이중 음성 대화를 구현한 SGLang 신작 | - |
+| **2026-11-12** | GitHub | **SsKanDon/blender-ai-mcp-addon** | https://github.com/SsKanDon/blender-ai-mcp-addon | Blender 3D를 위한 AI 어시스턴트 및 MCP 서버: 비주얼 챗, 씬 객체 조작, 파이썬 스크립트 자율 생성 및 멀티 에이전트 뷰포트 편집 | - |
+| **2026-11-12** | GitHub | **filipe-campos/walph** | https://github.com/filipe-campos/walph | 무거운 VS Code 없이 단일 앱에서 Claude Code 터미널 세션, 파일 탐색기, 실시간 diff 프리뷰를 결합한 네이티브 데스크톱 IDE | - |
+| **2026-11-12** | GitHub | **atunfrito/tuna-fonts** | https://github.com/atunfrito/tuna-fonts | 클라우드 동기화와 유료 구독을 강요하는 기존 폰트 도구의 거품을 걷어낸 Windows 10/11 전용 100% 로컬 오픈소스 글꼴 관리자 | - |
+| **2026-11-12** | GitHub | **snicolast/SegaRally2Native** | https://github.com/snicolast/SegaRally2Native | 레거시 아케이드/Win98 바이너리를 현대 64비트 C++ 및 DirectX 12/Vulkan 네이티브 런타임으로 이식한 정적 재컴파일러 | - |
+| **2026-11-12** | GitHub | **nestho/impacket-rs** | https://github.com/nestho/impacket-rs | 느린 파이썬 의존성을 탈피하고 SMB, DCE/RPC, Kerberos 프로토콜을 메모리 안전한 고성능 순수 Rust로 재설계한 레드팀 침투 도구 | - |
+| **2026-11-12** | GitHub | **AbdoSarmini/claude-usage-widget-for-windows-taskbar** | https://github.com/AbdoSarmini/claude-usage-widget-for-windows-taskbar | 브라우저 대시보드 없이 Windows 11 작업표시줄 트레이에서 Claude 5시간 쿼터 잔여량과 리셋 시간을 실시간 표시하는 위젯 | - |
+| **2026-11-12** | GitHub | **MZULALI/xj-scanner** | https://github.com/MZULALI/xj-scanner | 1991~1995년 구형 지프 차량의 비표준 OBD-I ECU 직렬 버스를 $3 아두이노 나노로 역공학하여 실시간 센서 로그와 DTC를 AI로 진단 | - |
+| **2026-11-12** | GitHub | **ichitaso/Regitela** | https://github.com/ichitaso/Regitela | 순정 iOS 27 환경에서 worse_query 취약점을 이용해 파일 샌드박스를 우회하고 시스템 캐시 및 고급 설정을 조작하는 탐색기 | - |
+| **2026-11-12** | GitHub | **MSNightmare/SignDrop** | https://github.com/MSNightmare/SignDrop | 윈도우 공통 로그 파일 시스템(CLFS) 커널 드라이버의 서명 검증 레이스 컨디션을 이용해 SYSTEM 권한으로 즉시 승격하는 0day PoC | - |
+| **2026-11-12** | Hacker News | **United-Airlines-AI-Agent-Ban** | https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ | 웹 스크래핑 및 CUA 기반 AI 에이전트의 항공권 자동 대리 예매가 폭증하자 약관을 개정하고 봇 접속을 원천 차단한 첫 대형 항공사 | - |
+| **2026-11-12** | Hacker News | **Jane-Street-Datacenter-Alarm** | https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ | 먼지와 센서 오작동으로 뉴욕 유일 초단타 매매 데이터센터 소방 설비가 터질 뻔했던 제인 스트리트의 물리 인프라 위기 회고 | - |
+| **2026-11-12** | Hacker News | **Safe-Sand-WebGL2** | https://av.github.io/safe-sand/ | 외부 플러그인 없이 WebGL2 컴퓨트 셰이더만으로 수십만 개 모래 알갱이 마찰과 붕괴 역학을 60FPS로 렌더링한 오픈 그래픽스 | - |
+| **2026-11-12** | Hacker News | **Maya-Site-AI-Discovery** | https://pietromiotti.com/latest/maya-site | 자율 AI 에이전트 군단이 멕시코 열대우림 오픈 라이다(LiDAR) 고도 지도를 탐색해 학계에 기록되지 않은 미지의 마야 고대 도시를 발견 | - |
+| **2026-11-12** | Hacker News | **Weight-Space-LP** | https://nathan.rs/posts/weight-space-lp/ | 수십억 번의 경사하강법 재훈련 없이 선형 계획법(LP) 심플렉스 최적화 제약 조건으로 신경망 가중치 공간의 지식을 직접 성형 | - |
+| **2026-11-12** | Hacker News | **Voltage-Glitching-A100** | https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ | 펌웨어로 잠겨 버려진 폐 암호화폐 채굴용 CMP 가속기에 정밀 전압 글리칭을 가해 정품 엔비디아 A100으로 속이고 코어를 해금 | - |
+| **2026-11-12** | Hacker News | **Scion-Kei-Truck-America** | https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-kei-truck-in-america/ | 2016년 단종된 토요타 Scion 브랜드를 부활시키고 거대 픽업트럭 일색인 미국 시장에 2천만 원대 초소형 전기 경트럭을 전격 투입 | - |
+| **2026-11-12** | Hacker News | **Apple-New-Mac-App-Local-AI** | https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ | 터미널 없이 일반 사용자도 맥 통합 메모리에서 파운데이션 모델을 원클릭으로 다운로드하고 구동하는 macOS 공식 앱 개발 포착 | - |
+| **2026-11-12** | Hacker News | **Tracking-Anthropic-Vulnerabilities** | https://www.vulncheck.com/blog/anthropic-glasswing-november-update | 앤스로픽의 AI 보안 전담 조직 Glasswing이 프론티어 모델을 이용해 오픈소스 및 인프라에서 발견한 미공개 고위험 제로데이 추적기 | - |
