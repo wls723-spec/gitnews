@@ -213,3 +213,26 @@
 | **2026-11-12** | Hacker News | **Scion-Kei-Truck-America** | https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-kei-truck-in-america/ | 2016년 단종된 토요타 Scion 브랜드를 부활시키고 거대 픽업트럭 일색인 미국 시장에 2천만 원대 초소형 전기 경트럭을 전격 투입 | - |
 | **2026-11-12** | Hacker News | **Apple-New-Mac-App-Local-AI** | https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ | 터미널 없이 일반 사용자도 맥 통합 메모리에서 파운데이션 모델을 원클릭으로 다운로드하고 구동하는 macOS 공식 앱 개발 포착 | - |
 | **2026-11-12** | Hacker News | **Tracking-Anthropic-Vulnerabilities** | https://www.vulncheck.com/blog/anthropic-glasswing-november-update | 앤스로픽의 AI 보안 전담 조직 Glasswing이 프론티어 모델을 이용해 오픈소스 및 인프라에서 발견한 미공개 고위험 제로데이 추적기 | - |
+| **2026-11-13** | GitHub | **Simon3Sarkis/super-odyssey-pc-recomp** | https://github.com/Simon3Sarkis/super-odyssey-pc-recomp | 닌텐도 DMCA 사태 속 저작권 자산 없이 스위치 ARM64 코드를 순수 C++로 정적 재컴파일한 4K 144Hz PC 네이티브 포트 | - |
+| **2026-11-13** | GitHub | **rivet-dev/open-orange** | https://github.com/rivet-dev/open-orange | 클라우드플레어 락인을 탈피해 내 서버와 AWS·GCP에서 Cloudflare Workers·Durable Objects를 무수정 구동하는 V8 런타임 | - |
+| **2026-11-13** | GitHub | **simpsoka/zigzag** | https://github.com/simpsoka/zigzag | 재봉틀 IoT의 월정액 구독 강요를 역공학으로 박살 내고 MCP AI 에이전트로 자수 도안을 실시간 직조하는 Rust 에디터 | - |
+| **2026-11-13** | GitHub | **makepad/relax** | https://github.com/makepad/relax | rustc와 LLVM 링커 대기 시간 없이 Cargo 패키지 소스를 메모리에서 0.1초 만에 기계어로 직접 실행하는 라이브 JIT | - |
+| **2026-11-13** | GitHub | **tylertms/Stela** | https://github.com/tylertms/Stela | x86-64 PC를 M2 Mac mini로 위장해 순정 macOS ARM64 커널과 Metal 셰이더를 지포스 GPU에서 구동하는 UEFI 호환 계층 | - |
+| **2026-11-13** | GitHub | **DevedevT/FFmpeg-GUI-Editor-Windows** | https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows | 재인코딩 화질 손실 없이 키프레임 스트림 카피로 4K 대용량 영상을 0.1초 만에 무손실 분할하는 경량 윈도우 GUI | - |
+| **2026-11-13** | GitHub | **lawandrorder/mate** | https://github.com/lawandrorder/mate | 상업 광고와 어뷰징 리뷰를 걷어내고 최저가와 실질 혜택을 대화형으로 찾아주는 텍스트 퍼스트 쇼핑 에이전트 | - |
+| **2026-11-13** | GitHub | **credoksopho1984/blender-ai-copilot-studio** | https://github.com/credoksopho1984/blender-ai-copilot-studio | Blender 3D 뷰포트와 로컬 LLM을 FastMCP로 직결해 자연어로 메시와 지오메트리 노드를 실시간 제어하는 코파일럿 | - |
+| **2026-11-13** | GitHub | **AIRzZ90/study-materials-fork** | https://github.com/AIRzZ90/study-materials-fork | 일렉트론의 무거움을 탈피하고 Tauri 2와 Rust SQLite FTS5로 15MB 저메모리 고속 검색을 실현한 지식 관리 하네스 | - |
+| **2026-11-13** | GitHub | **siwen-121/agent-shared-facts** | https://github.com/siwen-121/agent-shared-facts | 멀티 에이전트 편대에서 상호 검증된 사실만을 불변 CRDT 머클 트리 그래프로 안전하게 분산 동기화하는 참조 구현체 | - |
+| **2026-11-13** | GitHub | **CrommaAI/crommacode** | https://github.com/CrommaAI/crommacode | 동일한 요구 명세서 아래 Claude Code, Codex, Gemini 에이전트들이 실시간 코드 경쟁을 벌이는 게이미피케이션 IDE | - |
+| **2026-11-13** | GitHub | **tigerogijzooav/Hyperliquid-Trade-Bot** | https://github.com/tigerogijzooav/Hyperliquid-Trade-Bot | Hyperliquid L1 영구선물 DEX의 온체인 오더북 뎁스와 펀딩비 왜곡을 웹소켓으로 초저지연 분석하는 퀀트 봇 | - |
+| **2026-11-13** | GitHub | **DandanLLab/SnowCatQQ** | https://github.com/DandanLLab/SnowCatQQ | 위험한 메모리 후킹 없이 V8 컨텍스트 인터셉트로 OneBot v11 표준을 안전하게 브릿지하는 오픈 메신저 런타임 | - |
+| **2026-11-13** | GitHub | **sirioberati/gradient-descent-for-a-face** | https://github.com/sirioberati/gradient-descent-for-a-face | 외부 딥러닝 프레임워크 없이 순수 미적분과 경사하강법만으로 무작위 색상 반점들을 사람 얼굴로 수렴시키는 시각적 알고리즘 | - |
+| **2026-11-13** | Hacker News | **Jensen-Huang-Resigns** | https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f | 싱가포르 의혹과 사내 스캔들 속 33년간 엔비디아를 이끌며 시총 1위에 올렸던 젠슨 황 CEO의 전격 퇴임과 시장 지각변동 | - |
+| **2026-11-13** | Hacker News | **Gemini-4-Hydrogen** | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ | 5밀리초 추론 지연과 극단적 KV 캐시 압축으로 대규모 서브에이전트 스웜 편대를 실시간 지휘하는 구글의 전용 분산 모델 | - |
+| **2026-11-13** | Hacker News | **Rust-1.100.0-Milestone** | https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ | 2015년 Rust 1.0 출범 이후 11년간 하위 호환성을 완벽히 수호하며 세 자릿수 버전 고지에 도달한 기념비적 마이너 릴리즈 | - |
+| **2026-11-13** | Hacker News | **Anthropic-IPO-S1** | https://ipo.anthropic.com/us/ | Claude Code와 Sonnet 4의 엔터프라이즈 독주에 힘입어 80조 원 규모 뉴욕 증시 상장(IPO) 신청서를 공식 제출한 앤스로픽 | - |
+| **2026-11-13** | Hacker News | **Why-Writing-Correct-Software-Is-Hard** | https://pron.github.io/posts/correctness-and-complexity | 형식 기호 논리와 수학적 증명만으로는 물리적 현실 소프트웨어의 모든 예외와 복잡도를 해결할 수 없다는 통찰의 재조명 | - |
+| **2026-11-13** | Hacker News | **Humble-Bundle-Vibecoding-Breach** | https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ | AI 프롬프트 생성 코드를 보안 감사 없이 무분별하게 프로덕션에 배포했다가 게임 키 데이터베이스가 유출된 험블번들의 비극 | - |
+| **2026-11-13** | Hacker News | **Gemini-Decisions-API** | https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ | 텍스트 생성 병목을 없애고 자율 에이전트의 이진 분기 결정 및 액션 선택만을 10밀리초 내에 반환하는 구글 특화 API | - |
+| **2026-11-13** | Hacker News | **Apache-HTTP-Server-RCE-CVE-2026-119618** | https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability | 전 세계 수억 대의 웹 서버에서 구동되는 아파치 2.4 mod_rewrite의 20년 된 정규화 버퍼 오버플로우 RCE 제로데이 발견 | - |
+| **2026-11-13** | Hacker News | **Term-Sheet-Please-Parody** | https://termsheetplease.com/ | YC 파트너가 되어 과장된 AI 피치덱과 허풍 지표들 사이에서 진짜 혁신 기업을 감별해 승인 도장을 찍는 페이퍼즈 플리즈 패러디 게임 | - |
