@@ -236,3 +236,26 @@
 | **2026-11-13** | Hacker News | **Gemini-Decisions-API** | https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ | 텍스트 생성 병목을 없애고 자율 에이전트의 이진 분기 결정 및 액션 선택만을 10밀리초 내에 반환하는 구글 특화 API | - |
 | **2026-11-13** | Hacker News | **Apache-HTTP-Server-RCE-CVE-2026-119618** | https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability | 전 세계 수억 대의 웹 서버에서 구동되는 아파치 2.4 mod_rewrite의 20년 된 정규화 버퍼 오버플로우 RCE 제로데이 발견 | - |
 | **2026-11-13** | Hacker News | **Term-Sheet-Please-Parody** | https://termsheetplease.com/ | YC 파트너가 되어 과장된 AI 피치덱과 허풍 지표들 사이에서 진짜 혁신 기업을 감별해 승인 도장을 찍는 페이퍼즈 플리즈 패러디 게임 | - |
+| **2026-11-15** | GitHub | **alibaba/open-code-review** | https://github.com/alibaba/open-code-review | 알리바바 2년 실전 검증 하이브리드 코드 리뷰 CLI: 결정론적 규칙 파이프라인 + LLM 에이전트로 토큰 1/9 절감 및 정밀도 역전 (+51.3k 스타) | - |
+| **2026-11-15** | GitHub | **google/elephant-goldfish-model** | https://github.com/google/elephant-goldfish-model | 맥락을 쥔 '코끼리'가 설계하고 백지 상태 '금붕어'가 아첨·맹점을 박살 내는 구글 공식 멀티 에이전트 스펙 리뷰 플러그인 (+19.1k 스타) | - |
+| **2026-11-15** | GitHub | **backnotprop/plannotator** | https://github.com/backnotprop/plannotator | Claude Code·Codex·Gemini CLI·Pi 등 모든 에이전트의 계획서·Diff·HTML 시안을 브라우저 인박스에서 형광펜 첨삭해 직결하는 리뷰 레이어 (+11.0k 스타) | - |
+| **2026-11-15** | GitHub | **tailscale/tailcat** | https://github.com/tailscale/tailcat | 계정·루트 권한·컨트롤 플레인 없이 magicsock과 DERP로 WireGuard 종단간 암호화 P2P 터널을 뚫는 차세대 Netcat & 브라우저 WASM 데모 (+9.8k 스타) | - |
+| **2026-11-15** | GitHub | **every-app/open-seo** | https://github.com/every-app/open-seo | 월 수십만 원 Semrush·Ahrefs 독점을 깨는 BYOK 종량제 오픈소스 SEO 플랫폼 & AI 에이전트 직결 MCP 서버 (+27.7k 스타) | - |
+| **2026-11-15** | GitHub | **fdncred/nu_plugin_render** | https://github.com/fdncred/nu_plugin_render | Nushell 테이블의 이모지·CJK 폭 깨짐을 없애고 중첩 데이터 카드를 Kitty/Sixel 터미널 픽셀 이미지로 그려내는 Rust 플러그인 | - |
+| **2026-11-15** | GitHub | **0x00-Community/detour** | https://github.com/0x00-Community/detour | Mesa·Vulkan·OpenGL·libdrm을 통째로 우회하고 MLIR에서 GPU 실리콘으로 직결되는 100% 순수 Rust 유저스페이스 드라이버 | - |
+| **2026-11-15** | GitHub | **Timon2306/oxigram** | https://github.com/Timon2306/oxigram | TDLib·Electron·Qt 없이 순수 Rust MTProto(grammers)와 Tauri 2 + Svelte 5로 70MB RAM에서 구동되는 텔레그램 데스크톱 | - |
+| **2026-11-15** | GitHub | **opencoredev/islandcn** | https://github.com/opencoredev/islandcn | `npx shadcn@latest add` 한 줄로 React 웹앱 최상단에 다이나믹 아일랜드 상태 허브를 심는 오픈소스 컴포넌트 | - |
+| **2026-11-15** | GitHub | **Eddie02345/seuil** | https://github.com/Eddie02345/seuil | 삼성 연속성 BLE 0x0075 및 L2CAP CoC 프로토콜 역공학으로 갤럭시 버즈 오디오를 리눅스와 폰 사이에서 무접촉 자동 전환 | - |
+| **2026-11-15** | GitHub | **AnnenkovLabs/flecten** | https://github.com/AnnenkovLabs/flecten | 코딩 에이전트가 작업하는 도중 실시간 대화 개입·파일 탐색·Diff 확인을 단일 창에 통합한 데스크톱 워크스페이스 | - |
+| **2026-11-15** | GitHub | **faizfahmi77/ScanDot** | https://github.com/faizfahmi77/ScanDot | 일반 안드로이드폰 ARCore 깊이 추정으로 로컬 3D 포인트 클라우드를 스캔하고 FFmpeg·COLMAP 파이프라인과 연계하는 앱 | - |
+| **2026-11-15** | GitHub | **quer3q/kraken-mount** | https://github.com/quer3q/kraken-mount | SSD·USB의 디버그 FPKG 및 zstd·LZ4 압축 PS5 게임 덤프를 온더플라이 해제해 즉시 마운트하는 미니멀리스트 Rust 페이로드 | - |
+| **2026-11-15** | GitHub | **claynicholson/copper-kicad-mcp** | https://github.com/claynicholson/copper-kicad-mcp | AI 에이전트가 KiCad 10과 직접 통신해 LCSC 부품 선정, 배선 라우팅, ERC/DRC 검증 및 JLCPCB 발주 파일까지 설계하는 MCP 서버 | - |
+| **2026-11-15** | Hacker News | **SpaceX-Starship-Flight-15-Catch** | https://x.com/i/broadcasts/2brajgZlOKRMka | 스타십 15차 비행에서 발사대 젓가락 암(Mechazilla)으로 우주선 상단선까지 공중 포획 회수에 성공하며 완전 재사용 시대 개막 | - |
+| **2026-11-15** | Hacker News | **Lovable-Apps-Passport-Breach** | https://www.crissyfield.de/research/lovable-en/ | 보안 감사 없는 바이브 코딩 앱 빌더(Lovable) 기반 실서비스들이 Supabase RLS 미설정으로 여권 정보·비공개 메시지 20만 건 이상 노출 | - |
+| **2026-11-15** | Hacker News | **EFF-BigTech-Shifting-Privacy** | https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again | AI 학습 데이터 수집과 서버 감시를 '프라이버시 보호'로 포장하려는 빅테크의 약관·언어적 재정의 시도를 정면 분석한 EFF 보고서 | - |
+| **2026-11-15** | Hacker News | **FAA-National-Ground-Stop** | https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247 | 미 연방항공청(FAA) 전국 항공편 4시간 30분 일제 이륙 중단 사태와 노후 항공 관제 IT 인프라의 단일 장애점(SPOF) 위기 | - |
+| **2026-11-15** | Hacker News | **Nvidia-Circular-GPU-Scarcity** | https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus | AI 스타트업에 지분 투자금을 대주고 자사 GPU 선주문을 유도해 인위적 공급 부족과 순환 매출을 증폭시켰다는 엔비디아 의혹 보도 | - |
+| **2026-11-15** | Hacker News | **Monkey-Island-13-Versions** | https://monkeyisland.pages.dev/ | EGA·아미가·FM-Towns·VGA·리마스터까지 원숭이 섬의 비밀 13종 하드웨어 팔레트와 픽셀 디더링 진화를 나란히 비교하는 웹 박물관 | - |
+| **2026-11-15** | Hacker News | **Microsoft-365-Global-Outage** | https://status.cloud.microsoft/ | Microsoft 365·Outlook·Azure 12시간 이상 대규모 글로벌 장애와 "LibreOffice는 365일 작동한다" 밈이 폭발한 클라우드 종속 위기 | - |
+| **2026-11-15** | Hacker News | **Coway-Purifier-Reverse-Engineering** | https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ | 제조사 외부 클라우드 앱을 버리기 위해 코웨이 공기청정기 내부 MCU 통신을 역공학해 완전한 로컬 홈 오토메이션으로 해방한 기록 | - |
+| **2026-11-15** | Hacker News | **Anthropic-Claude-Service-Outage** | https://status.claude.com/incidents/nn11wk485zfn | claude.ai, Claude Code, API 플랫폼 동시 오류 급증 사태로 재조명된 멀티 프로바이더 라우팅 및 로컬 오픈웨이트 모델 폴백의 중요성 | - |
