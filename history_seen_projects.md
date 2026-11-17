@@ -305,3 +305,26 @@
 | **2026-11-17** | Hacker News | **Qwen4-Max-Release** | https://qwen.ai/blog?id=qwen4-max | 알리바바 Qwen 팀이 코딩·에이전트 추론 성능을 끌어올린 차세대 플래그십 모델 `Qwen4-Max`를 공개하며 847점·468댓글 대토론을 촉발한 발표 | - |
 | **2026-11-17** | Hacker News | **uBlock-Origin-Element-Picker-UXSS** | https://iter.ca/post/ubo-uxss/ | 웹사이트가 uBlock Origin의 요소 선택기(Element Picker)를 유도해 모든 사이트에 스크립트를 주입할 수 있었던 브라우저 확장 프로그램 UXSS 취약점 분석 | - |
 | **2026-11-17** | Hacker News | **M365-Outage-Hotel-Chlorine-Leak** | https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html | Microsoft 365 장애와 시설 제어 연동 오류가 겹치며 독일 호텔 투숙객 15명이 염소 가스에 중독된 사건과 물리적 페일세이프(Fail-Safe) 격리 원칙 논쟁 | - |
+| **2026-11-18** | GitHub | **google-research/paper-orchestra** | https://github.com/google-research/paper-orchestra | 아이디어 노트와 실험 로그만으로 아웃라인·문헌 조사·집필·플로팅 비평·LaTeX 조판을 자동화하는 구글 리서치 5-에이전트 프레임워크 (★2,917) | - |
+| **2026-11-18** | GitHub | **affaan-m/ECC** | https://github.com/affaan-m/ECC | 72개 전문 에이전트, 327개 스킬, 지속 학습(Instincts) 메모리 및 AgentShield 보안 스캐너를 통합한 에이전트 하네스 운영체제 (★305,454) | - |
+| **2026-11-18** | GitHub | **mvanhorn/last30days-skill** | https://github.com/mvanhorn/last30days-skill | Reddit·X·YouTube·TikTok·HN·Polymarket 배당률 등 12개 폐쇄 플랫폼을 병렬 탐색해 최근 30일 여론과 시장 확률을 합성하는 v4 스킬 (★68,995) | - |
+| **2026-11-18** | GitHub | **getarcaneapp/arcane** | https://github.com/getarcaneapp/arcane | Go 1.27·Docker Compose v5·WebAuthn 패스키·OIDC·GitOps·Copacetic 패치·SBOM 투명성을 갖춘 현대적 오픈소스 도커 관리기 (★9,294) | - |
+| **2026-11-18** | GitHub | **antithesishq/bombadil** | https://github.com/antithesishq/bombadil | 선형 시제 논리(LTL) 기반 속성 명세와 CDP·libghostty-vt 자율 탐색 퍼징으로 웹·터미널 UI 버그를 사냥하는 Rust 테스팅 엔진 (★2,570) | - |
+| **2026-11-18** | GitHub | **SecFathy/otpkit** | https://github.com/SecFathy/otpkit | 별도 API 키 없이 임시 이메일·SMS 수신함을 생성하고 OTP 코드와 인증 링크를 자동 추출하는 에이전트 E2E 테스트용 MCP 서버 | - |
+| **2026-11-18** | GitHub | **Kede0111/qlick-lab** | https://github.com/Kede0111/qlick-lab | Swift UI와 Rust 코어를 결합해 디지털 RAW 사진을 아날로그 필름 롤·스톡 감성으로 현상하는 GPL-3.0 무료 macOS 암실 앱 | - |
+| **2026-11-18** | GitHub | **Lelpoco2/learning-curve** | https://github.com/Lelpoco2/learning-curve | SymPy 수식 검산과 직관 우선 교수법, 오답 노트 재시험·간격 반복 학습을 Claude Code 및 pi에 이식하는 STEM 튜터 플러그인 | - |
+| **2026-11-18** | GitHub | **prusa3d/prusa-connect** | https://github.com/prusa3d/prusa-connect | 외부 클라우드 의존 없이 사내 로컬 네트워크에서 다수의 3D 프린터를 직접 관제·모니터링하는 Prusa3D 공식 Go 기반 로컬 서버 | - |
+| **2026-11-18** | GitHub | **SamG-Coder/SmartImposter** | https://github.com/SamG-Coder/SmartImposter | 44만 그루 식생을 시차 팔면체 임포스터와 Rust+Vulkan RTX 1-spp 레이 트레이싱, NVIDIA DLSS Ray Reconstruction으로 그리는 렌더러 | - |
+| **2026-11-18** | GitHub | **phasyn/phasyn-studio** | https://github.com/phasyn/phasyn-studio | 클라우드 결제 없이 내 로컬 GPU에서 샷(Shot) 단위로 사운드가 포함된 단편 AI 영상을 생성·편집하는 Apache-2.0 셀프호스팅 스튜디오 | - |
+| **2026-11-18** | GitHub | **krisgfx9/Wireless-Device-Battery-Monitor** | https://github.com/krisgfx9/Wireless-Device-Battery-Monitor | 무거운 제조사 동반 앱 없이 Windows 10/11·Linux 작업표시줄에 무선 마우스·키보드·헤드셋 배터리 잔량을 띄우는 C++ 유틸리티 | - |
+| **2026-11-18** | GitHub | **sybil-solutions/inference-optimisation-skill** | https://github.com/sybil-solutions/inference-optimisation-skill | 이론적 상한선 계산·1변수 대조 실험·장문 회수율 게이트를 통해 로컬 LLM 추론 속도(Decode·Prefill·KV)를 최적화하는 스킬 | - |
+| **2026-11-18** | GitHub | **fedesanchez0/shader-lab** | https://github.com/fedesanchez0/shader-lab | iPhone·iPad·Apple TV·Apple Watch·Apple Vision Pro에서 실시간 파라미터 조절로 Apple Metal 셰이더를 실험하는 Swift 플레이그라운드 | - |
+| **2026-11-18** | Hacker News | **GPT-6.2-Astra-and-Sol** | https://openai.com/index/introducing-gpt-6-2-astra-sol/ | OpenAI가 차세대 모델 GPT-6.2 Astra 및 Sol을 전격 공개하며 5시간 만에 961점·601댓글과 트래픽 폭주를 일으킨 발표 | - |
+| **2026-11-18** | Hacker News | **Java4Shell-OpenJDK-Base64-RCE** | https://calif.io/java4shell/ | OpenJDK의 Base64 디코딩(AVX-512 인트린직 경로 지목) 처리 중 원격 코드 실행(RCE)이 가능한 치명적 취약점 Java4Shell 분석 | - |
+| **2026-11-18** | Hacker News | **Apple-Services-Outage** | https://developer.apple.com/system-status/ | 애플 서비스 대규모 동시 장애로 오프라인 애플 스토어 POS 결제·반품 처리와 신형 iPhone 개통까지 연쇄 중단된 사건 | - |
+| **2026-11-18** | Hacker News | **School-Phone-Bans-Test-Scores** | https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html | 교내 스마트폰 금지 정책 도입 이후 학생들의 학업 성취도가 점진적으로 개선되고 있음을 추적한 NYT 실증 연구와 1,104점 토론 | - |
+| **2026-11-18** | Hacker News | **Claude-Code-Team-Verification** | https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ | 코드의 약 90%를 AI가 작성·리뷰하는 환경에서 병렬 에이전트 출력의 검증 병목을 뚫기 위한 Claude Code 팀의 엔지니어링 철학 | - |
+| **2026-11-18** | Hacker News | **Regulatory-Capture-Anthropic-METR** | https://nitter.cf/kevinnbass/status/2099621874279817638 | 공개 공시 자료 분석을 토대로 AI 안전 평가 기관 METR과 프론티어 연구소 간 재정·인맥 연결 및 규제 포획 가능성을 제기한 논쟁 | - |
+| **2026-11-18** | Hacker News | **Windows-11-Coding-Agent-Telemetry** | https://xusheng.dev/posts/windows-coding-agent-telemetry/ | Windows 11이 개발자 PC에서 사용 중인 코딩 에이전트와 개발 도구를 텔레메트리로 수집하고 있다는 기술 분석과 프라이버시 반발 | - |
+| **2026-11-18** | Hacker News | **Optimizely-Compromised-OPTIMJACK** | https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ | Optimizely 태그 침해로 Zoom·GitLab·CNN·Fox News 방문자에게 악성코드와 암호화폐 스키머(OPTIMJACK)가 유포된 공급망 사고 | - |
+| **2026-11-18** | Hacker News | **Jiff-1.0-Rust-Datetime** | https://burntsushi.net/jiff/ | ripgrep 창시자 BurntSushi가 Temporal 영감과 IANA 타임존·DST 완벽 지원을 담아 발표한 차세대 Rust 날짜 라이브러리 Jiff 1.0 | - |
