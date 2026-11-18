@@ -328,3 +328,26 @@
 | **2026-11-18** | Hacker News | **Windows-11-Coding-Agent-Telemetry** | https://xusheng.dev/posts/windows-coding-agent-telemetry/ | Windows 11이 개발자 PC에서 사용 중인 코딩 에이전트와 개발 도구를 텔레메트리로 수집하고 있다는 기술 분석과 프라이버시 반발 | - |
 | **2026-11-18** | Hacker News | **Optimizely-Compromised-OPTIMJACK** | https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ | Optimizely 태그 침해로 Zoom·GitLab·CNN·Fox News 방문자에게 악성코드와 암호화폐 스키머(OPTIMJACK)가 유포된 공급망 사고 | - |
 | **2026-11-18** | Hacker News | **Jiff-1.0-Rust-Datetime** | https://burntsushi.net/jiff/ | ripgrep 창시자 BurntSushi가 Temporal 영감과 IANA 타임존·DST 완벽 지원을 담아 발표한 차세대 Rust 날짜 라이브러리 Jiff 1.0 | - |
+| **2026-11-19** | GitHub Trending | **jingyaogong/minimind** | https://github.com/jingyaogong/minimind | 단돈 600원과 2시간 만에 단일 GPU에서 순수 PyTorch만으로 64M 초경량 LLM을 사전학습부터 Agentic RL까지 0부터 구축하는 오픈소스 프레임워크 | - |
+| **2026-11-19** | GitHub Trending | **agent-substrate/substrate** | https://github.com/agent-substrate/substrate | 유휴 에이전트를 500ms 미만으로 microVM 스냅샷·복원해 10~30배 밀도로 실행하고 샌드박스 내 자격증명을 0%로 격리하는 제로트러스트 쿠버네티스 런타임 | - |
+| **2026-11-19** | GitHub Trending | **HKUDS/CLI-Anything** | https://github.com/HKUDS/CLI-Anything | Blender·GIMP·QGIS·LibreOffice 등 데스크톱 GUI 소프트웨어를 JSON 출력·REPL을 갖춘 에이전트 네이티브 CLI 하네스로 자동 변환하는 프레임워크 | - |
+| **2026-11-19** | GitHub Trending | **google-labs-code/stitch-skills** | https://github.com/google-labs-code/stitch-skills | Google Stitch MCP 서버와 Agent Skills 오픈 표준을 결합해 DESIGN.md·React/Native 컴포넌트·Remotion 데모를 에이전트로 직결하는 공식 스킬 | - |
+| **2026-11-19** | GitHub Trending | **ethanplusai/sellbird** | https://github.com/ethanplusai/sellbird | OpenStreetMap 무료 발굴과 기존 Claude/ChatGPT 정액제 구독만으로 콜드메일 작성 및 승인제 Outbox를 돌리는 AGPL-3.0 아웃리치 엔진 | - |
+| **2026-11-19** | GitHub | **mitsuhiko/tvpipe** | https://github.com/mitsuhiko/tvpipe | Flask 창시자 Armin Ronacher가 AirPlay와 Google Cast의 실시간 미러링 프로토콜을 직접 구현한 초저지연 Rust CLI | - |
+| **2026-11-19** | GitHub | **3d3dcanada/stella-scope-community** | https://github.com/3d3dcanada/stella-scope-community | Klipper·Prusa·FlashForge 3D 프린터 팜 전체를 단일 3D 뷰와 재생 가능한 비행기록장치로 통합 관제하는 Rust AGPL-3.0 콕핏 | - |
+| **2026-11-19** | GitHub | **Spartakusovec/apogee** | https://github.com/Spartakusovec/apogee | Wayland Sway 타일링 WM 위에 상단 바·독·Spotlight·설정 앱을 단일 Rust+GTK 4 프로세스로 얹는 통합 데스크톱 셸 | - |
+| **2026-11-19** | GitHub | **geerlingguy/chronytop** | https://github.com/geerlingguy/chronytop | Jeff Geerling이 chrony NTP 타임 서버의 요청량·Rate-limit 클라이언트·드리프트를 실시간 시각화하도록 제작한 btop 스타일 Go TUI | - |
+| **2026-11-19** | GitHub | **pookjw/Clocky** | https://github.com/pookjw/Clocky | 탈옥이나 MobileGestalt 시스템 변조 없이 모든 watchOS 기종에서 제한된 Apple Watch 페이스를 앱 내부에 띄우는 GPL-3.0 프로젝트 | - |
+| **2026-11-19** | GitHub | **eddiezywang/wemail** | https://github.com/eddiezywang/wemail | 클라우드 업로드 없이 IMAP/SMTP 메일을 로컬 SQLite로 동기화해 사용자 지정 AI 요약·분류·답장 초안을 돌리는 Apache-2.0 메일 앱 | - |
+| **2026-11-19** | GitHub | **ChrisTitusTech/lg-debloat** | https://github.com/ChrisTitusTech/lg-debloat | 루팅된 LG webOS 2+ 스마트 TV에서 Plex·YouTube는 유지한 채 광고·프로모션·사전 로딩 블로트웨어를 가역적으로 제거하는 MIT 디블로터 | - |
+| **2026-11-19** | GitHub | **comp-work/gke-sandboxes** | https://github.com/comp-work/gke-sandboxes | 자체 구글 클라우드 GKE와 gVisor·파일시스템 스냅샷으로 시간당 1.9센트 비용의 수면·재개형 에이전트 샌드박스를 구축하는 인프라 | - |
+| **2026-11-19** | GitHub | **Tpojka/neleceni** | https://github.com/Tpojka/neleceni | 유튜브 뉴스 스트림 화면 하단의 발언자 자막을 실시간 OCR로 감지해 지정한 인물이 나올 때만 자동 음소거하는 MIT 크롬 확장 | - |
+| **2026-11-19** | Hacker News | **Gemini-4-Neon** | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ | 구글 딥마인드가 초고속·고효율 차세대 플래그십 라인업 Gemini 4 Neon을 공개하며 1.2시간 만에 239점·233댓글을 기록한 발표 | - |
+| **2026-11-19** | Hacker News | **Nginx-HTTP2-RCE-CVE-2026-123007** | https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities | Wiz가 공개한 Nginx HTTP/2 정수 언더플로우 무인증 RCE(CVE-2026-123007) 및 GitHub PoC(sfewer-r7)·NGINX2Root 연쇄 파장 | - |
+| **2026-11-19** | Hacker News | **Microsoft-Ignite-2026-MAI-Models** | https://microsoft.ai/news/microsoft-ignite-2026/ | 마이크로소프트가 Ignite 2026에서 자체 파운데이션 7종과 코딩 특화 MAI Code 2·Flash를 공개하며 추론 단가 공세를 펼친 발표 | - |
+| **2026-11-19** | Hacker News | **AI-Killing-All-About-Berlin** | https://nicolasbouliane.com/blog/death-by-ai | 구글 AI 검색 답변 확산으로 검색 유입이 40% 급감하며 독립 전문 정보 사이트 All About Berlin이 직면한 생존 위기 포스트모텀 | - |
+| **2026-11-19** | Hacker News | **Codeberg-Domain-Suspension-Outage** | https://social.anoxinon.de/@codebergstatus/117636437840688845 | 비영리 오픈소스 Git 호스팅 Codeberg.org가 레지스트라 NameSilo 계정에서 도메인이 돌연 정지·소실되며 전면 불통을 겪은 DNS 장애 | - |
+| **2026-11-19** | Hacker News | **Energy-Based-Reasoners-385x** | https://energy-based-reasoners.github.io/ | 자기회귀 토큰 생성 없이 에너지 최소화로 수렴해 385배 높은 효율을 내세운 Energy-Based Reasoners 및 비자기회귀 추론 연구 | - |
+| **2026-11-19** | Hacker News | **Quad9-Withdrawal-From-France** | https://blog.cloudflare.com/quad9-withdrawal-from-france/ | 프랑스의 반복적인 저작권 DNS 차단 명령을 견디지 못한 비영리 DNS 리졸버 Quad9의 철수와 인터넷 발칸화 경고 | - |
+| **2026-11-19** | Hacker News | **Nvidia-Singapore-Sales-Disclosure** | https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf | 엔비디아가 매출 1,040억 달러를 돌파한 최신 공시에서 수출 통제 우회 논란이 집중되던 싱가포르 매출 분리 공시를 중단한 FT 보도 | - |
+| **2026-11-19** | Hacker News | **Microsoft-ONNX-Runtime-Disappeared** | https://github.com/microsoft/onnxruntime | 스타 2만2천 개 규모의 핵심 AI 추론 엔진 microsoft/onnxruntime이 사전 예고 없이 GitHub에서 사라져 전 세계 CI·평가 파이프라인이 중단된 사건 | - |
