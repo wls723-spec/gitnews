@@ -351,3 +351,26 @@
 | **2026-11-19** | Hacker News | **Quad9-Withdrawal-From-France** | https://blog.cloudflare.com/quad9-withdrawal-from-france/ | 프랑스의 반복적인 저작권 DNS 차단 명령을 견디지 못한 비영리 DNS 리졸버 Quad9의 철수와 인터넷 발칸화 경고 | - |
 | **2026-11-19** | Hacker News | **Nvidia-Singapore-Sales-Disclosure** | https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf | 엔비디아가 매출 1,040억 달러를 돌파한 최신 공시에서 수출 통제 우회 논란이 집중되던 싱가포르 매출 분리 공시를 중단한 FT 보도 | - |
 | **2026-11-19** | Hacker News | **Microsoft-ONNX-Runtime-Disappeared** | https://github.com/microsoft/onnxruntime | 스타 2만2천 개 규모의 핵심 AI 추론 엔진 microsoft/onnxruntime이 사전 예고 없이 GitHub에서 사라져 전 세계 CI·평가 파이프라인이 중단된 사건 | - |
+| **2026-11-20** | GitHub | **obra/superpowers** | https://github.com/obra/superpowers | 15대 AI 코딩 에이전트 하네스에서 브레인스토밍→Worktree→RED-GREEN TDD→서브에이전트 2단계 리뷰를 강제하는 소프트웨어 공학 스킬 OS (+2,029스타/일, ★322,035) | - |
+| **2026-11-20** | GitHub | **firecrawl/firecrawl** | https://github.com/firecrawl/firecrawl | 로컬 단일 바이너리(firecrawl-local)부터 브라우저 조작 Interact, 550+ 데이터 허브 Alexandria까지 통합한 웹 지식 인프라 (+795스타/일, ★204,133) | - |
+| **2026-11-20** | GitHub | **mjmirza/app-store-compliance** | https://github.com/mjmirza/app-store-compliance | 애플·구글 117개 심사 거절 패턴과 EU AI Act·DSA 등 95개 규제 시한을 코딩 에이전트 제출 훅으로 사전 차단하는 오픈 플레이북 (+542스타/일, ★1,782) | - |
+| **2026-11-20** | GitHub | **cathrynlavery/diagram-design** | https://github.com/cathrynlavery/diagram-design | 4px 그리드·1px 헤어라인·단일 강조색 규칙으로 51종 에디토리얼 단일 파일 HTML+SVG 도해를 그려내는 에이전트 디자인 스킬 (+332스타/일, ★68,592) | - |
+| **2026-11-20** | GitHub | **bendlang/bend** | https://github.com/bendlang/bend | LAWS.bend 불변 법칙과 Lean 검증 커널(--verdict)로 AI의 버그 병합을 봉쇄하고 CPU·GPU에 자동 병렬 컴파일하는 Bend 2 언어 (+127스타/일, ★25,609) | - |
+| **2026-11-20** | GitHub | **nhovongoc0-max/trend-workbench** | https://github.com/nhovongoc0-max/trend-workbench | 암호화폐·미국주식·A주를 단일 로컬 창에서 멀티 타임프레임 구조 및 손익비로 분석하는 Apache-2.0 TypeScript 차트 워크벤치 | - |
+| **2026-11-20** | GitHub | **santosasarno-code/github-release-tracker-rs** | https://github.com/santosasarno-code/github-release-tracker-rs | API 토큰·로그인 없이 GitHub 릴리즈를 실시간 추적하는 순수 Rust + 네이티브 Win32 포터블 데스크톱 앱 | - |
+| **2026-11-20** | GitHub | **dstdoll/cadence** | https://github.com/dstdoll/cadence | Kotlin Jetpack Compose UI와 Rust 네이티브 오디오 엔진을 결합한 안드로이드용 Apple Music 오픈 클라이언트 | - |
+| **2026-11-20** | GitHub | **iamajmeena/neonclipping** | https://github.com/iamajmeena/neonclipping | 유튜브 링크만으로 오디오·자막 기반 9:16 숏폼 클립을 2분 만에 로컬 자동 편집하는 MIT Python 엔진 | - |
+| **2026-11-20** | GitHub | **INK-Q/agy-fast** | https://github.com/INK-Q/agy-fast | 런타임 의존성 없는 단일 ESM 번들로 Google Antigravity CLI·IDE의 도구 호출 지연을 가속하는 MIT 플러그인 | - |
+| **2026-11-20** | GitHub | **StadeDevelopment/stadesk** | https://github.com/StadeDevelopment/stadesk | X25519+ML-KEM-768 및 Ed25519+ML-DSA-65 양자내성 하이브리드 암호화를 적용한 Rust GPL-3.0 종단간 암호화 원격 데스크톱 | - |
+| **2026-11-20** | GitHub | **zju3dv/SADL** | https://github.com/zju3dv/SADL | 구조 변경이나 추가 파라미터 없이 단일 하이퍼파라미터만으로 자기지도 학습 표현 붕괴를 방지하는 저장대 3DV 손실함수 | - |
+| **2026-11-20** | GitHub | **fitzyracing1/system-on-an-agent** | https://github.com/fitzyracing1/system-on-an-agent | 반도체 SoC 설계를 차용해 플래너·메모리·커넥터·라우터 버스를 4대 경량 코어로 집적한 MIT Python 에이전트 아키텍처 | - |
+| **2026-11-20** | GitHub | **Ericismee/Azr** | https://github.com/Ericismee/Azr | Windows 11에 리퀴드 글래스 독·다이내믹 아일랜드·메뉴 바를 얹는 네이티브 Rust 데스크톱 커스터마이징 앱 | - |
+| **2026-11-20** | Hacker News | **Anthropic-Nasdaq-2T-Debut** | https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ | 앤스로픽이 나스닥 상장 첫날 시가총액 2조 달러를 돌파하며 749점·1,385댓글 대토론을 촉발한 사건 (IPO 공모가 확정 클러스터) | - |
+| **2026-11-20** | Hacker News | **Fuck-Your-AI-Safeguards** | https://ounapuu.ee/posts/2026/11/19/unsafeguards/ | 모호하고 과도한 AI 세이프가드 필터가 정상적인 보안 감사·시스템 개발까지 차단하는 역설을 비판한 에세이 | - |
+| **2026-11-20** | Hacker News | **UK-Secret-Apple-Encryption-Order** | https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ | 영국 정부가 애플에 iCloud 종단간 암호화(ADP) 백도어 비밀 명령(TCN)을 내렸음을 공식 시인하며 일어난 프라이버시 파장 | - |
+| **2026-11-20** | Hacker News | **EC-Matrix-40k-Staff-Rollout** | https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ | 유럽연합 집행위원회(EC)가 4만 명 이상 전 직원에게 오픈소스 연합 메신저 Matrix·Element를 전면 도입한 아키텍처 회고 | - |
+| **2026-11-20** | Hacker News | **15M-Web-Servers-One-VM-smoltcp** | https://kapteko.com/15-million-webservers/ | 리눅스 커널 네트워크 스택을 우회해 유저스페이스 smoltcp·DPDK·AF_XDP로 단일 VM에 웹 서버 1,500만 개를 구동한 실험 | - |
+| **2026-11-20** | Hacker News | **SSD-Prices-Decline-H2-2027** | https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html | AI 데이터센터 스토리지 폭증으로 SSD·HDD 가격 하락 시점이 2027년 하반기로 밀렸음을 짚은 NAND 공급망 리포트 | - |
+| **2026-11-20** | Hacker News | **We-Need-Smart-People-Who-Give-A-Shit** | https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ | AI 코드 양산 시대 속에서 엣지 케이스와 제품 디테일을 끝까지 책임지는 엔지니어링 장인정신의 희소가치를 논한 글 | - |
+| **2026-11-20** | Hacker News | **Ruby-Regexp-String-Vulns-Ruby2shell** | https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ | Ruby Regexp·문자열 대소문자 변환 다중 보안 취약점 공식 권고 및 기본 Rails 무인증 RCE(Ruby2ßhell) 연쇄 경보 | - |
+| **2026-11-20** | Hacker News | **LLM-Assisted-Reverse-Engineering** | https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering | 디컴파일러 출력에 LLM의 심볼·구조체 추론 전파 루프를 결합해 스트립된 바이너리 역공학 속도를 높인 실전 기법 | - |
