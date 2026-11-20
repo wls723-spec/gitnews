@@ -374,3 +374,27 @@
 | **2026-11-20** | Hacker News | **We-Need-Smart-People-Who-Give-A-Shit** | https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ | AI 코드 양산 시대 속에서 엣지 케이스와 제품 디테일을 끝까지 책임지는 엔지니어링 장인정신의 희소가치를 논한 글 | - |
 | **2026-11-20** | Hacker News | **Ruby-Regexp-String-Vulns-Ruby2shell** | https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ | Ruby Regexp·문자열 대소문자 변환 다중 보안 취약점 공식 권고 및 기본 Rails 무인증 RCE(Ruby2ßhell) 연쇄 경보 | - |
 | **2026-11-20** | Hacker News | **LLM-Assisted-Reverse-Engineering** | https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering | 디컴파일러 출력에 LLM의 심볼·구조체 추론 전파 루프를 결합해 스트립된 바이너리 역공학 속도를 높인 실전 기법 | - |
+
+| **2026-11-21** | GitHub | **XiaoYouChR/Ghost-Downloader-3** | https://github.com/XiaoYouChR/Ghost-Downloader-3 | 무병합 스마트 청킹·실제 브라우저 TLS 위장(wreq)·HTTP/BT/M3U8/eD2k/HuggingFace 미러·aria2 RPC·ghd CLI 통합 4대 OS 다운로더 (+1,082스타/일, ★13,654) | - |
+| **2026-11-21** | GitHub | **zhouxiaoka/autoclip** | https://github.com/zhouxiaoka/autoclip | 링크 하나로 화자 추적 숏폼 10편·자막·커버·ZIP 발행 패키지를 로컬 FFmpeg 렌더링(0.09위안)하고 MCP로 직결하는 오픈소스 스튜디오 (+983스타/일, ★12,138) | - |
+| **2026-11-21** | GitHub | **Tracer-Cloud/opensre** | https://github.com/Tracer-Cloud/opensre | 실패한 CI 빌드 로그를 역추적해 코드 결함 vs 플래키 원인을 분리하고 사내 모델 기반으로 수정 PR까지 제출하는 셀프호스팅 CI/CD SRE 에이전트 (+465스타/일, ★13,573) | - |
+| **2026-11-21** | GitHub | **FlashML-org/FreeVideo** | https://github.com/FlashML-org/FreeVideo | 8-step Video DeltaNet·비동기 가중치 스트리밍·RTX 30시리즈 int8 2.3배 가속으로 8GB VRAM GPU에서 MiniMax H3 영상·16MP 이미지를 로컬 생성 (+304스타/일, ★3,770) | - |
+| **2026-11-21** | GitHub | **phone-harness/phone-harness** | https://github.com/phone-harness/phone-harness | 탈옥·Xcode 없이 macOS iPhone Mirroring+Apple Vision OCR 및 Android adb로 실물/클라우드 스마트폰을 에이전트가 직접 조작하는 MIT 하네스 (+206스타/일, ★5,362) | - |
+| **2026-11-21** | GitHub | **podomy/weld** | https://github.com/podomy/weld | ROS 2 와이어 호환에 호스트 내 지연시간 최대 68% 단축 및 100kHz 무손실 통신을 달성한 Go 기반 로보틱스·군집 미들웨어 | - |
+| **2026-11-21** | GitHub | **sohzm/winedroid** | https://github.com/sohzm/winedroid | Android OS 부팅 없이 DEX 바이트코드·Skia UI·Cranelift JIT 및 WASM 브라우저 실행까지 구현한 Rust 기반 안드로이드 호환 레이어 | - |
+| **2026-11-21** | GitHub | **danielwh2/sprite-stacking** | https://github.com/danielwh2/sprite-stacking | 4장의 정사영 픽셀아트를 회전 가능한 유사 3D 복셀 스프라이트 스택으로 변환하는 Python·NumPy 기반 코딩 에이전트 스킬 | - |
+| **2026-11-21** | GitHub | **tristanbuckmaster/navier-stokes** | https://github.com/tristanbuckmaster/navier-stokes | L. Alpöge와 T. Buckmaster의 나비에-스토크스 방정식 유한 시간 폭발 79페이지 논문 및 Mathlib 기반 Lean v4.33.1 정형 검증 패키지 | - |
+| **2026-11-21** | GitHub | **nestjs/agent-skills** | https://github.com/nestjs/agent-skills | 모델 학습 이후의 최신 NestJS API와 이메일 유출·null 통과 500 에러 등 프로덕션 안티패턴을 차단하는 공식 Agent Skills | - |
+| **2026-11-21** | GitHub | **AI4XE/ai4ai** | https://github.com/AI4XE/ai4ai | Claude Code·OpenCode 등 이기종 하네스에서 에이전트가 컨텍스트 잔량·추론 강도·자가 복제/갱신을 스스로 제어하는 통합 확장 킷 | - |
+| **2026-11-21** | GitHub | **jweihe/Awesome-3D-Coding** | https://github.com/jweihe/Awesome-3D-Coding | Blender Python·파라메트릭 CAD·Three.js 인터랙티브 월드를 실행 코드로 생성·편집하는 3D 코딩 벤치마크·데이터셋·에이전트 총람 | - |
+| **2026-11-21** | GitHub | **nickvasilescu/openman** | https://github.com/nickvasilescu/openman | Orgo 클라우드 컴퓨터 위에서 실시간 화면 관전과 즉시 수동 인수인계·스킬·스케줄 자동화를 제공하는 MIT 자율 에이전트 워크스페이스 | - |
+| **2026-11-21** | GitHub | **mgolcu00/freeimage-local** | https://github.com/mgolcu00/freeimage-local | stable-diffusion.cpp 기반 int8+SageAttention 최적화로 6GB VRAM RTX 3060 노트북 GPU에서 Z-Image Turbo를 풀스피드 로컬 구동하는 엔진 | - |
+| **2026-11-21** | Hacker News | **Alpoge-GRH-Lean-Proof-Cluster** | https://alpo.ge/remark.pdf | Levent Alpöge의 일반화 리만 가설(GRH) Lean 정형 증명 발표(2,198점·1,505댓글) 및 Masullo·Aaronson·Tao·GH Lean 미러 클러스터 | - |
+| **2026-11-21** | Hacker News | **Thinking-Machines-Inkling-2-Mini** | https://thinkingmachines.ai/news/inkling-2-mini/ | Thinking Machines Lab이 공개한 초경량 모델 Inkling 2 Mini와 가변 반복 깊이 추론 varlooped 변종 연구 (2.6h 만에 440점) | - |
+| **2026-11-21** | Hacker News | **Never-Buy-Framework-Hardware-Again** | https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ | OpenSMTPD 개발자 Gilles Chehade의 Framework 노트북 품질·CS 비판과 모듈형 수리권 vs 실무 워크스테이션 신뢰성 519댓글 격론 | - |
+| **2026-11-21** | Hacker News | **Frostbite-AI-Designed-CPU** | https://architectlabs.com/blog/frostbite | AI가 명령어 집합 탐색부터 RTL 설계·정형 검증까지 완결한 새로운 CPU 아키텍처 Frostbite 공개 (595점·315댓글) | - |
+| **2026-11-21** | Hacker News | **Signal-Protecting-Your-Privacy** | https://signal.org/blog/protecting-your-privacy/ | 정부 감시·백도어 압박에 맞선 Signal의 제로 메타데이터 방어 원칙 재천명 및 계정 생성 시 익명 결제 수단 283댓글 검증 | - |
+| **2026-11-21** | Hacker News | **Google-Pushing-OEMs-Against-GrapheneOS** | https://grapheneos.social/@GrapheneOS/117645038299496084 | 구글의 OEM 대상 GrapheneOS 협력 중단·부트로더 잠금 해제 제한 압박 의혹 및 Pixel 잠금 우려 후속 보도 클러스터 (470점) | - |
+| **2026-11-21** | Hacker News | **Pancreatic-Cancer-Halted-Virus-Injection** | https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/ | 유전자 변형 항암 바이러스 주사로 말기 췌장암 환자 3명의 종양 진행을 멈춘 초기 임상 돌파구 보도 (870점) | - |
+| **2026-11-21** | Hacker News | **Claude-Black-Hole-Physics** | https://www.anthropic.com/research/claude-black-hole-physics | Anthropic이 발표한 Claude의 이론물리학 블랙홀 미해결 난제 2건 해결 공동연구 성과 및 과학 추론 토론 (550점·266댓글) | - |
+| **2026-11-21** | Hacker News | **OpenSSL-EVP-EncodeBlock-CVE-2026-121481** | https://github.com/openssl/openssl/pull/33652 | OpenSSL Base64 인코딩 함수 EVP_EncodeBlock()의 버퍼 오버플로우 취약점(CVE-2026-121481, CVSS 9.8) 수정 PR 및 익스플로잇 조건 논쟁 | - |
