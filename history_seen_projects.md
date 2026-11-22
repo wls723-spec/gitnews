@@ -421,3 +421,27 @@
 | **2026-11-22** | Hacker News | **Promoted-Developers-Into-Architects** | https://manidoraisamy.com/developer-to-architect.html | AI 코딩 1줄이 15초짜리 다중 API 호출 지연을 숨기는 시대, 모든 개발자에게 요구되는 시스템 아키텍트 판단력을 논한 에세이 (570점·306댓글) | - |
 | **2026-11-22** | Hacker News | **DreamCoder-Mastering-Emacs-Harness** | https://www.masteringemacs.org/article/announcing-dreamcoder | Mastering Emacs 저자 Mickey Petersen이 15개월간 개발해 공개한 Lisp·Emacs 자기 확장 철학 기반 AI 코딩 하네스 겸 IDE | - |
 | **2026-11-22** | Hacker News | **Vibecoding-Inference-Chip-FPGA** | https://ankitg.me/blog/vibecoding-inference-chip/ | 코딩 에이전트를 활용해 FPGA 하드웨어 RTL/HDL을 바이브 코딩하고 시뮬레이션·합성을 거쳐 실동작 LLM 추론 칩으로 구현한 개발기 | - |
+
+| **2026-11-23** | GitHub | **os6/nospeaker** | https://github.com/os6/nospeaker | macOS 비공개 MultitouchSupport 햅틱 API로 Force Touch 트랙패드를 4,000Hz 포먼트 음성 스피커로 바꾸는 Swift 바이너리 (★348/10.7h) | - |
+| **2026-11-23** | GitHub | **microsoft/markitdown** | https://github.com/microsoft/markitdown | PDF·PPTX·DOCX·XLSX·이미지·오디오·ZIP을 LLM 네이티브 Markdown으로 변환하고 markitdown-mcp·markitdown-ocr로 확장하는 도구 (+466★/일, ★197,865) | - |
+| **2026-11-23** | GitHub | **anomalyco/opencode** | https://github.com/anomalyco/opencode | build/plan 이중 에이전트·@general 서브에이전트·Rust CLI·클라이언트-서버 데몬·데스크톱 앱을 통합한 MIT 오픈소스 코딩 에이전트 (+187★/일, ★228,597) | - |
+| **2026-11-23** | GitHub | **earendil-works/pi** | https://github.com/earendil-works/pi | TUI·JSON·RPC·TS SDK·Chord 객체 런타임·Nix 재현 빌드로 확장 가능한 최소주의 AI 에이전트 하네스 (+163★/일, ★123,337) | - |
+| **2026-11-23** | GitHub | **colbymchenry/codegraph** | https://github.com/colbymchenry/codegraph | 22개 언어 tree-sitter Rust 커널·SQLite FTS5 로컬 코드 그래프와 단일 MCP(codegraph_explore)로 토큰 62%·비용 44% 절감 (+101★/일, ★78,414) | - |
+| **2026-11-23** | GitHub | **Avaneesh-Inamdar/Stream-Tube-Desktop** | https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop | SponsorBlock·DeArrow·Return YouTube Dislike를 기본 내장한 Windows·Linux용 순수 Rust 무광고 네이티브 유튜브 클라이언트 | - |
+| **2026-11-23** | GitHub | **Zytow/cad-doc-skill** | https://github.com/Zytow/cad-doc-skill | Siemens NX·STEP CAD 어셈블리를 Blender/FreeCAD 분해도·부품표 포함 마크다운 문서로 자동 생성하는 Claude Code 스킬 | - |
+| **2026-11-23** | GitHub | **abdallah-swe/layerpool** | https://github.com/abdallah-swe/layerpool | 이기종 PC·노트북·클라우드 GPU 메모리를 레이어 단위로 풀링해 HuggingFace 대형 모델을 분산 학습하는 MIT Python 라이브러리 | - |
+| **2026-11-23** | GitHub | **ranveersoni98/Xenora** | https://github.com/ranveersoni98/Xenora | Rosetta 2·MoltenVK 없이 Apple Silicon ARM64 및 XenoMetal(RDNA→MSL) 실행을 겨냥한 Xbox Series X|S 정적 리컴파일 프레임워크 | - |
+| **2026-11-23** | GitHub | **garvitsurana271/stambha** | https://github.com/garvitsurana271/stambha | USB 부팅으로 x86-64 PC에서 ARM64 macOS 27 번역 실행 및 자체 NVIDIA Metal 가속을 구현하는 Rust 베어메탈 프로젝트 | - |
+| **2026-11-23** | GitHub | **miya-tonya/night-ferry** | https://github.com/miya-tonya/night-ferry | 하루 1편 에세이 제한과 Wikimedia 4라운드 비전 삽화 검수·WebGL 월야 표지를 결합한 AI 야간 항해 일지 리더 | - |
+| **2026-11-23** | GitHub | **deeeeone/Anvil** | https://github.com/deeeeone/Anvil | 네이티브 Tool Calling 없이 플레인텍스트 프로토콜로 다중 모델을 구동하는 macOS 15+ 순수 SwiftUI 코딩 에이전트 앱 | - |
+| **2026-11-23** | GitHub | **Absenti/iBuilder** | https://github.com/Absenti/iBuilder | 본인 소유 스위치 게임 덤프와 prod.keys로 iPhone 기기 자체에서 네이티브 iOS 앱을 빌드하는 Rust + .NET iOS 툴체인 | - |
+| **2026-11-23** | GitHub | **Pistifeju/Chord** | https://github.com/Pistifeju/Chord | iOS 코딩 에이전트마다 독립 Git 워크트리·DerivedData·iOS 시뮬레이터를 할당해 병렬 개발하는 macOS 14+ Tauri 워크벤치 | - |
+| **2026-11-23** | Hacker News | **What-Happened-to-Silicon-Valley** | https://www.oreilly.com/radar/what-happened-to-silicon-valley/ | 실리콘밸리의 개방형 웹·오픈소스 정신이 거대 자본 독점 플랫폼으로 변모한 궤적을 성찰한 O'Reilly Radar 에세이 (275점) | - |
+| **2026-11-23** | Hacker News | **Perplexity-and-Intelligence-OpenAI** | https://openai.com/index/perplexity-and-intelligence/ | OpenAI 수석과학자 Jakub Pachocki가 내부 사전학습 퍼플렉시티를 첫 공개하며 업계 공동 AI 안전 척도를 제안한 글 (419점) | - |
+| **2026-11-23** | Hacker News | **Worker755-Human-Subagent-Game** | https://github.com/gulivan/worker755 | 실제 LLM 매니저가 인간 플레이어를 자신의 서브에이전트로 착각해 90초 제한 터미널 지시와 인사고과를 내리는 브라우저 게임 (252점) | - |
+| **2026-11-23** | Hacker News | **Toyota-Nissan-Honda-Standardize-Parts** | https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ | 일본 3대 자동차 거인(토요타·닛산·혼다)이 원가 절감을 위해 핵심 부품을 공동 표준화하기로 합의한 소식 (1,152점·661댓글) | - |
+| **2026-11-23** | Hacker News | **Anthropic-Power-87pct-Gas-11pct-Coal-2028** | https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ | 데이터센터 BYOP 자가발전 확산으로 2028년 앤스로픽 전력의 87% 가스·11% 석탄 의존 가능성을 분석한 리포트 (821점·기후 클러스터 통합) | - |
+| **2026-11-23** | Hacker News | **Notes-on-Discrete-Fourier-Transform** | https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ | Eli Bendersky가 유한 N개 디지털 샘플에서 주파수 성분을 분해하는 이산 푸리에 변환(DFT)의 직관을 해설한 DSP 노트 (92점) | - |
+| **2026-11-23** | Hacker News | **Sandwich-Simulator-stulle** | https://stulle.app/ | 마우스·터치 물리 인터랙션으로 빵 위에 스프레드를 바르고 토핑을 회전 배치하는 순수 웹 샌드위치 시뮬레이터 (554점·194댓글) | - |
+| **2026-11-23** | Hacker News | **OpenRouter-Inference-Provider-Incidents** | https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ | 프롬프트 데이터 정책 미준수 정황으로 OpenRouter가 추론 프로바이더 3곳을 퇴출하고 ZDR 엔드포인트 125개를 박탈한 보안 공지 (276점) | - |
+| **2026-11-23** | Hacker News | **Advice-for-the-Next-100-Rust-GUIs** | https://linebender.org/blog/next-100-guis/ | Raph Levien이 Zed GPUI·Discord 사례와 Vello/Skia급 2D 렌더러 과제, AI가 촉발한 Rust GUI 부흥을 진단한 4.5년 만의 회고 (251점) | - |
