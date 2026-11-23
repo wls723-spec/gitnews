@@ -445,3 +445,27 @@
 | **2026-11-23** | Hacker News | **Sandwich-Simulator-stulle** | https://stulle.app/ | 마우스·터치 물리 인터랙션으로 빵 위에 스프레드를 바르고 토핑을 회전 배치하는 순수 웹 샌드위치 시뮬레이터 (554점·194댓글) | - |
 | **2026-11-23** | Hacker News | **OpenRouter-Inference-Provider-Incidents** | https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ | 프롬프트 데이터 정책 미준수 정황으로 OpenRouter가 추론 프로바이더 3곳을 퇴출하고 ZDR 엔드포인트 125개를 박탈한 보안 공지 (276점) | - |
 | **2026-11-23** | Hacker News | **Advice-for-the-Next-100-Rust-GUIs** | https://linebender.org/blog/next-100-guis/ | Raph Levien이 Zed GPUI·Discord 사례와 Vello/Skia급 2D 렌더러 과제, AI가 촉발한 Rust GUI 부흥을 진단한 4.5년 만의 회고 (251점) | - |
+
+| **2026-11-24** | GitHub | **AFK-surf/xnulinux** | https://github.com/AFK-surf/xnulinux | 하이퍼바이저 없이 수정 없는 arm64 리눅스 커널에 XNU(xnu.ko·fki.ko)를 모듈로 적재해 macOS 27.2.1 데스크톱·Safari·Metal(metal2vulkan)을 부팅한 이중 커널 프로젝트 (HN 587점·★1,926) | - |
+| **2026-11-24** | GitHub | **LadybirdBrowser/ladybird** | https://github.com/LadybirdBrowser/ladybird | 크로미움·웹킷 포크 없이 바닥부터 새로 짠 독립 웹 브라우저가 macOS·Linux 롤링 알파 2026.47.7을 공식 배포 (HN 1,179점·★67,673) | - |
+| **2026-11-24** | GitHub | **anthropics/formal-math** | https://github.com/anthropics/formal-math/tree/main/vp-vnp | 내부 Claude 연구 모델이 발견·집필하고 Lean 4 + Mathlib + Palomar 독립 커널(nanoda)이 검증한 모든 체 위에서의 VP ≠ VNP 형식 증명 (HN 72.5점/h·★527) | - |
+| **2026-11-24** | GitHub | **Fission-AI/OpenSpec** | https://github.com/Fission-AI/OpenSpec | 탐색·제안(proposal/specs/design/tasks)·구현·아카이브 순환과 멀티 레포 Stores(Beta)를 제공하는 경량 명세 주도 개발(SDD) 표준 (+105★/일·누적 ★75,565) | - |
+| **2026-11-24** | GitHub | **t8y2/dbx** | https://github.com/t8y2/dbx | 번들 크로미움 없이 ~25MB 네이티브 Rust 코어로 100+ DB·미들웨어, DuckDB 파일 프리뷰, 서명 플러그인, 3단 정책 MCP 서버를 통합한 데이터 워크벤치 (+95★/일·누적 ★31,224) | - |
+| **2026-11-24** | GitHub | **EL4CTEO/shrink-anything** | https://github.com/EL4CTEO/shrink-anything | 19개 언어 코드베이스에서 죽은 코드·불필요 파일·의존성을 찾아 사용자 테스트 통과 여부를 검증한 뒤 안전하게 삭제하는 Rust CLI·MCP 서버 | - |
+| **2026-11-24** | GitHub | **CybeDefend/cybedefend** | https://github.com/CybeDefend/cybedefend | 코딩 에이전트에서 단일 명령으로 취약점을 스캔하고 실제 익스플로잇으로 검증까지 수행하는 셀프호스팅 오픈소스 Snyk 대체 ASPM | - |
+| **2026-11-24** | GitHub | **DerKezorm/nextime** | https://github.com/DerKezorm/nextime | iCloud·Google·CalDAV 일정을 한곳에 통합하고 자연어 빠른 입력과 자체 CalDAV 서버를 제공하는 가족·소규모 팀용 셀프호스팅 캘린더 | - |
+| **2026-11-24** | GitHub | **SulphurS16/Regaliant** | https://github.com/SulphurS16/Regaliant | CPU 에뮬레이션 없이 PS5 데몬즈 소울(2020) 원본 바이너리를 Windows 재구현 시스템 라이브러리와 Vulkan으로 구동하는 Rust 비공식 PC 포트 | - |
+| **2026-11-24** | GitHub | **duwqijlk/browser-capture** | https://github.com/duwqijlk/browser-capture | 외부 패키지 0개 및 Runtime.enable 무노출 방식으로 안티디버그를 우회해 CDP·익명 Hook·JS 소스를 덤프하는 Node.js 22+ 역공학 스킬 | - |
+| **2026-11-24** | GitHub | **mbzuai-oryx/LoopedWSP** | https://github.com/mbzuai-oryx/LoopedWSP | 경사하강법 대신 LLM이 직접 루프형 트랜스포머의 가중치 공간을 프로그래밍해 장기 알고리즘 추론을 실행하는 MBZUAI Oryx 연구 코드 | - |
+| **2026-11-24** | GitHub | **chanke17/KuroCat** | https://github.com/chanke17/KuroCat | macOS·Windows·Linux 하드웨어 레벨 키보드·마우스 입력에 맞춰 2.5D 구면 회전과 사냥 동공 애니메이션을 보여주는 네이티브 데스크톱 고양이 펫 | - |
+| **2026-11-24** | GitHub | **R44VC0RP/dashsplat** | https://github.com/R44VC0RP/dashsplat | 테슬라 6채널 대시캠 영상만으로 자가 보정·1cm 도로 텍스처·408만 가우시안 스플랫·Difix 디퓨전 3인칭 시점을 구축한 3D 주행 재구성 파이프라인 | - |
+| **2026-11-24** | GitHub | **manuelgscom/rumor-village** | https://github.com/manuelgscom/rumor-village | 파인튜닝된 소형 로컬 LLM(llama.cpp)이 100명 NPC를 오프라인 구동해 소문의 전파와 왜곡을 실시간 시뮬레이션하는 3D 마을 게임 | - |
+| **2026-11-24** | Hacker News | **Nvidia-Reinstates-Jensen-Huang-CEO** | https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html | 엔비디아 이사회가 젠슨 황을 CEO·사장으로 재선임한 속보 및 공식 발표·미 의회 반발·Polymarket 의심 베팅 클러스터 통합 (1,807점·2,901댓글) | - |
+| **2026-11-24** | Hacker News | **Arm-Reference-Discontinued-Dec4** | https://arm.jonpalmisc.com/ | 개발자들이 애용하던 WebAssembly 기반 AArch64(Armv8-A/v9-A) 명령어·레지스터 웹 레퍼런스가 Arm 법무팀 중단 요청으로 12월 4일 폐쇄 예고 (685점) | - |
+| **2026-11-24** | Hacker News | **LeCun-Amodei-OSS-Model-Regulation** | https://twitter.com/ylecun/status/2124550037912920090 | 얀 르쿤이 다리오 아모데이의 AI 위험론을 오픈소스 모델 불법화 및 독점 통제 전략이라 직격하며 촉발된 AI 규제 포획 논쟁 (840점·494댓글) | - |
+| **2026-11-24** | Hacker News | **GLM-5.4-Loop-Transformer** | https://z.ai/blog/glm-5.4 | Z.ai가 첫 루프 트랜스포머(Loop Transformer) 아키텍처를 적용한 범용 코딩 모델 GLM-5.4 발표 및 Coding Plan 출시 클러스터 (997점) | - |
+| **2026-11-24** | Hacker News | **Next-Circle-of-Security-Hell-Gentoo** | https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ | Gentoo 메인테이너 Michał Górny가 CVE 폭주와 과잉 보안 대책이 의존성 생태계 유지보수자의 부담과 약점을 키우는 역설을 진단한 글 (224점) | - |
+| **2026-11-24** | Hacker News | **Win4wine-XP-Shell-Linux-Desktop** | https://github.com/mikuta0407/win4wine | 패치된 Wine 11.0 위에서 Windows XP explorer.exe(또는 ReactOS 쉘)를 Debian 13 리눅스 데스크톱 쉘로 직접 구동하는 실험 (200점) | - |
+| **2026-11-24** | Hacker News | **Spelunkr-TV-Internet-Archive** | https://spelunkr.tv | 인터넷 아카이브의 잊혀진 영상들을 레트로 80년대 케이블 TV 편성 채널로 감상하는 무료 대안 미디어 네트워크 (907점) | - |
+| **2026-11-24** | Hacker News | **Beginners-Guide-Local-AI-Inkling-Qwen-Unsloth** | https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth | 클라우드 모델 품질 변동과 비용에서 벗어나 Inkling·Qwen·Unsloth로 가정용 PC에 무료 개인용 로컬 AI를 세우는 실전 가이드 (736점) | - |
+| **2026-11-24** | Hacker News | **Birds-of-GTA-6-Audubon-Field-Guide** | https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife | 전미 오듀본 조류 협회가 GTA 6 레오니다 습지·해변의 가상 조류 생태계와 종 고증 디테일을 조류학 관점에서 분석한 특집 (628점) | - |
